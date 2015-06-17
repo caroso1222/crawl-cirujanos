@@ -1,0 +1,621 @@
+nombres,direccion,apellidos,ciudad,telefono,pais,estado,email
+Juan Carlos,Calle 7 # 39-107 (1303) Torre Medica,Cardenas Restrepo,Medellin,3128816-3127852,Colombia,Antioquia,consultorioplastico@yahoo.com
+Dario,Cra. 52 # 84-131,Cabello Baquero,Barranquilla,,Colombia,Atlantico,director@dariocabello.com
+Felipe,"Calle 97 # 23-37 Cons 802, Centro Medico Dali",Castro Esguerra,Bogota D.C.,6000956,Colombia,Bogota D.C.,info@felipecastroesguerra.com
+Maria Liliana,Tranv. 17 # 118-55,Blanco Herran,Bogota D.C.,6201546,Colombia,Bogota D.C.,liliblanco10@hotmail.com
+Henry,Calle 124 # 7-38 (801),Cortes Barreto Henry,Bogota D.C.,5313581,Colombia,Bogota D.C.,corteshenry@yahoo.com
+Alberto,Kra. 15 #83-33  Cons. 302,Arevalo,Bogota D.C.,(+571)7456570,Colombia,Bogota D.C.,doctorarevalo@hotmail.com
+Andres,Diag. 75B # 2A-80 P-421 T.Med. Americas,Diaz Romero,Medellin,3459159,Colombia,Antioquia,cirugiaplastica@correo1lasamericas.com
+Julio Cesar,Calle 7 # 39-197 (908),Eusse Llanos,Medellin,4445464,Colombia,Antioquia,contacto@julioeussecirujanoplastico.com
+Rafael,Calle 134 # 13-83  Torre 2 Piso 3 Cpons.232,Gomez Diaz,Bogota D.C.,6278279,Colombia,Bogota D.C.,rafagomezciruplastica@hotmail.com
+Edgar Mauricio,Avda. 1 # 15-04 (12) Cl,Garcia Acosta,Cucuta,5728846-5942604,Colombia,Norte De Santander,mauricio99@yahoo.com
+Zaida Maria,Cra. 36 # 35-09 Piso 5O. Clinica Marta,Jara Urzola,Villavicencio,6725190-91,Colombia,Meta,zaymary@hotmail.com
+Jairo,Calle 5D #38A-35 Torre 2 Con 802 Centro Vida Profesional,Gonzalez Ramirez,Cali,5556241,Colombia,Valle Del Cauca,jairogonram@icloud.com
+Fabian,Clinica Santillana Cra. 46 # 9C-85 (614),Hernandez Medina,Cali,5529951,Colombia,Valle Del Cauca,fabianhernandez_m@hotmail.com
+Gabriel Horacio,Tranv. 14 # 126 A-11 (601) La Carolina,Alvarado Garcia,Bogota D.C.,6581610-6581611,Colombia,Bogota D.C.,gabrielalvaradog@gmail.com
+Juan Carlos,Tranv. 14 #126-11 (402),Leon Acevedo,Bogota D.C.,6581604-6147780,Colombia,Bogota D.C.,plasticaleon@yahoo.com
+Luz Saider,Cra. 46 # 7-227 Patio Bonito,Lopez Ramirez,Medellin,4440539,Colombia,Antioquia,luzsaider@gmail.com
+Maria Fernanda,Calle 5D # 38A-35 Torre 1 Con 937,Lopez Orozco,Cali,5586179,Colombia,Valle Del Cauca,lofema1@yahoo.com
+Jorge Ivan,C.M. Ardila Lulle Torre B. Mod.47 Con.620,Lopez Gomez,Bucaramanga,(7)6781212,Colombia,Santander,doctor@jorgeivan.co
+Gabriel A.,Cra. 19C # 90-14 (404),Lopez Caballero,Bogota D.C.,6103488-3340308,Colombia,Bogota D.C.,gabriellopez@cable.net.co
+Cesar,Avda  15 # 122-69 (208),Lopez Cruz Cesar,Bogota D.C.,6295093,Colombia,Bogota D.C.,dr.cesarlopez@hotmail
+Juan Carlos,Calle 5 D # 38A-35 (907),Lopez Cardona,Cali,6838527,Colombia,Valle Del Cauca,nadocarjuan@hotmail.com
+Maria Cristina,Cra. 16 # 82-95 Cons. 505,Lopez Assmus,Bogota D.C.,2361344,Colombia,Bogota D.C.,lopezassmus@gmail.com
+Juan Fernando,Diag. 75B # 2A-80 (513) Cl. Las Americas,Lopera Giraldo,Medellin,3459179/3417070,Colombia,Antioquia,juanlo7@msn.com
+Juan David,Calle 7 Sur # 42-70 (511) Edif. Forum,Londoño Villa,Medellin,3140478,Colombia,Antioquia,ciruplas@une.net.co
+Gustavo Adolfo,Ak.  9 # 116-20 Consultorio 721,Londoño Gamboa,Bogota D.C.,6374305 - 2152300 Extensión 1- 721,Colombia,Bogota D.C.,consultoriodrglg@gmail.com
+Luis Alfredo,Avda. Guadalupe # 1B-131,Londoño Carvajal,Cali,5130776-5515805,Colombia,Valle Del Cauca,londono663@hotmail.com
+Ricardo,Calle 93 # 14-20 (512),Lomanto Del Castillo,Bogota D.C.,2182813-2181642,Colombia,Bogota D.C.,lomantodelcastillo@hotmail.com
+Carlos Eduardo,Carrera 23#124-70 Consultorio 503,Lloreda Ramirez,Bogota D.C.,7036566  -  7036574,Colombia,Bogota D.C.,drlloreda@plasticalloreda.com
+Luis Carlos,Cra. 16A # 82-46 Cons. 612,Linares Salazar,Bogota D.C.,2960520-2485255,Colombia,Bogota D.C.,info@doclinares.com
+Hector Alonso,Centro Empresarial Natura- Km. 2 Anillo Vial Floridablanca. Torre 1 -Cons. 417,Linares Salazar,Bucaramanga,,Colombia,Santander,hdalimon@yahoo.com
+Cesar Mauricio,Calle 62 # 21-44,Linares Garzon,Bogota D.C.,2496768-3471106,Colombia,Bogota D.C.,dr.mauriciolinaresml@hotmail.com
+Natalia,Calle 137 # 19-42 (204),Linares Cruz,Bogota D.C.,5206533,Colombia,Bogota D.C.,citas@natalialinarescplastica.com
+Juan Carlos,Cra. 19A # 84-64 Clinica Loyola,Leyva Gonzalez,Bogota D.C.,6168152,Colombia,Bogota D.C.,leiva.jc@gmail.com
+Juan Antonio,Cra. 52 # 84-118,Lewis Bojanini,Barranquilla,3786202,Colombia,Atlantico,jlewisb58@hotmail.com
+Francisco Leonardo,Manzana 9 Casa 35 Ii Etapa B. Jordan,Leonel Leonel,Ibague,2740713,Colombia,Tolima,flenell@hotmail.com
+Camilo Andres,Cra 36 # 54-08 Piso 3,Lemos Parra,Bucaramanga,,Colombia,Santander,camilolemos@hotmail.com
+Alfonso Rafael,Cra. 7 # 119-14 (409),Lemaitre Soleiman,Bogota D.C.,5222407,Colombia,Bogota D.C.,lemaitredoc@hotmail.com
+Ana Maria,Calle 119 # 7-14 (522),Lehmann Mosquera,Bogota D.C.,6291514,Colombia,Bogota D.C.,anamarialehmannmd@yahoo.com
+Miguel Angel,Calle 5D#38A-35 Edif. Vida Centro Profesional Torre 1 Piso 10 Cons.1037 Barrio Tequendama,Ledesma Gonima,Cali,5545332,Colombia,Valle Del Cauca,mialogo@yahoo.com
+Juan Manuel,Calle 80 # 10-43,Laverde Gutierrez,Bogota D.C.,2186574-6160577,Colombia,Bogota D.C.,juanmalav@hotmail.com
+Hernando,Cra. 15 # 85-55 (202B),Laverde Gutierrez,Bogota D.C.,6352947-2363769 ,Colombia,Bogota D.C.,herlav@yahoo.com
+Hernando Jose,Cra. 45 # 82-133,Larios Beleño,Barranquilla,3596991-3592221,Colombia,Atlantico,herlabe22@hotmail.com
+Ricardo,Calle 97 # 23-37 Piso9,Lancheros Pedraza,Bogota D.C.,6115454,Colombia,Bogota D.C.,info@plasticayestetica.com
+Jaime,Calle 91 # 19C-62 Cons.204,Lara Mizar,Bogota D.C.,2183891,Colombia,Bogota D.C.,jaime@jaimelara.com
+Eugenio Jose,Calle 85 # 50-37 T. Med. Del Mar (307),Lafaurie Miranda,Barranquilla,3738390,Colombia,Atlantico,ejlafaurie@hotmail.com
+Alberto Mario,Cra. 51B # 94-334 Cons. 512,Lacouture Peynado,Barranquilla,3572174-3560972,Colombia,Atlantico,alacoucp@hotmail.com
+Alberto Bernardo,Cra. 19A # 82-85 Cons. 507 Country Medical Center,Kopec,Bogota D.C.,7953131 ext 5070,Colombia,Bogota D.C.,cirugiaestetica@yahoo.com
+Paola Andrea,Cra. 38A # 5A-100 (701) Torre A. Centro M,Kafury Goeta,Cali,5589540,Colombia,Valle Del Cauca,pakafury@imbanaco.com
+Alberto,Cra. 11 # 117A-09,Juris Lopez Dario,Bogota D.C.,7534694,Colombia,Bogota D.C.,dariojuris@hotmail.com
+William Albeiro,Cra. 50 # 9B-20 (106),Jimenez Uribe,Cali,3741000-5513555,Colombia,Valle Del Cauca,info@williamlimenrz.com
+Rafael,Avda. 15 # 118-03 (406),Jimenez Osorio,Bogota D.C.,2153608-2153628,Colombia,Bogota D.C.,prafaelj@007mundo.com
+Mauricio,Calle 124 # 7-38 Cons. 902,Jimenez Torres,Bogota D.C.,7026221-7029626,Colombia,Bogota D.C.,mauriciojimeneztorrez@gmail.com
+Gerardo,Calle 1A Sur # 43A-49 Inst. Cirg. Plast.,Jimenez Londoño,Medellin,3110555-3110261,Colombia,Antioquia,gjimenez@une.net.co
+Carlos Hernan,Calle 20 # 32B-17,Jarrin Guillen,Pasto,7311233-235592,Colombia,Nariño,jarrinhernan@hotmail.com
+Carlos Arturo,Calle 116 No 9 - 72 Cons 516,Gonzalez Legarda,Bogota D.C.,6056938,Colombia,Bogota D.C.,plasticagonzalez@yahoo.com
+Hernando Jose,Cra. 21 A # 124-55,Gonzalez Garcia,Bogota D.C.,6205220-6198979,Colombia,Bogota D.C.,supernando8@hotmail.com
+Martin Adolfo,Prados De Bellavista  Casa#5,Gonzalez Garavito,Yopal,6345662,Colombia,Casanare,magoga68@hotmail.com
+Walter,Calle 5B # 40-50 B. Tequendama,Gonzalez Espinoza,Cali,5519393-5518612,Colombia,Valle Del Cauca,medicenter@clinicamedicenter.com
+Luis Hernan,Calle 5 # 38-10 (602) Consumedico,Gonzalez Caicedo,Cali,5582216-6615166,Colombia,Valle Del Cauca,drluishgonzalez@hotmail.com
+Danilo De J.,Cra.14 C # 150-80,Gonzalez Cuervo,Bogota D.C.,312/8128671,Colombia,Bogota D.C.,danilocuervo@hotmail.com
+Harold Armando,Calle 124 # 7-38 (901),Gomez Torres,Bogota D.C.,2153049,Colombia,Bogota D.C.,hagomez8@gmail.com
+Martin Alberto,Calle 40 No 27 A- 22 Cons. 902 Cl. Chicamocha,Gomez Rueda,Bucaramanga,6350789,Colombia,Santander,martinalbertogomezrueda@hotmail.com
+Giovanna Patricia,Cra. 40 # 5B-100-,Gomez Romero,Cali,4866663,Colombia,Valle Del Cauca,giovagomez@yahoo.com
+Alba Viviana,Calle 137 # 19-42,Gomez Ortega,Bogota D.C.,5206633,Colombia,Bogota D.C.,vivigor7@gmail.com
+Oscar Adolfo,Calle 5C # 43-10 Cons. 207,Gomez Muñoz,Cali,6643908,Colombia,Valle Del Cauca,ogomezjc@hotmail.com
+Jorge Mario,Calle 1 A Norte  12-36 (202) Edif. Uninorte,Gomez Ibañez,Armenia,7466303,Colombia,Quindio,clinigomez@telecom.com
+Erin Johanna,Cra. 23 # 30A-37 (403) Centro Med. Esp. Ca,Gomez Gualdron,Bucaramanga,6848377,Colombia,Santander,eringobraworld@hotmail.com
+Martha Marcela,Calle 127 #N 19A-28 Cons. 314,Gomez Licht,Bogota D.C.,6497605-6497606,Colombia,Bogota D.C.,mglicht@gmail.com
+Oscar Martin,Cra. 42 # 14-32 Mz I Casa 13 Conj. Burgabiles B El B.,Gomez Garcia,Villavicencio,3486868 Ext. 5195,Colombia,Meta,oscarmartingg@yahoo.com
+Oscar Laureano,Clinica Del Quindio Cons. 412,Gomez Echeverry,Armenia,,Colombia,Quindio,olagomez_9@yahoo.com
+Julia Sofia,Calle 116 #23-05,Alfonso Jaimes,Bogota D.C.,6373980,Colombia,Bogota D.C.,sofialja@hotmail.com
+Maria Cristina,Cra. 19 # 14-47,Almenarez Mendoza,Barranquilla,5803535-5803636,Colombia,Atlantico,decs02@hotmail.com
+Jairo,Calle 2 Sur # 46-55,Gomez Echeverri,Medellin,2662517-2500945,Colombia,Antioquia,echeverryjairo@yahoo.com
+Amanda Iris,Calle 95 # 71-45 Ap.1501 Torre 5 Parque Central Pontevedra,Alfonso Garcia,Bogota D.C.,6475894,Colombia,Bogota D.C.,amandalfonsog@hotmail.com
+Lina Maria,Cra. 14 # 127-11 Cons. 506,Alfaro Cortes,Bogota D.C.,2148965,Colombia,Bogota D.C.,linaalfaroplastia@hotmail.com
+Absalon,Calle 5C # 43-10,Aldana Granados,Cali,5532407,Colombia,Valle Del Cauca,absalonaldana2@hotmail.com
+Jorge Nayib,Cra. 46 # 9C-85 (611),Alarcon Zambrano,Cali,6841927,Colombia,Valle Del Cauca,dianachacon@hotmail.com
+Ovidio Alfonso,Calle 54 # 33-45 Piso 10,Alarcon Almeyda,Bucaramanga,6474071,Colombia,Santander,ovidioalarcons.a@gmail.com
+Herley,Clinica De Marly (426),Aguirre,Bogota D.C.,3205184,Colombia,Bogota D.C.,haguirres@unal.edu.co
+Santiago,Avda 10A Norte # 12N-36 Apto. 303 Altillo De Juananbu,Aguilera Mosquera,Cali,4878050,Colombia,Valle Del Cauca,santiagoaguilera@hotmail.com
+Hasbleiby,Cra. 21A # 124-55 Con 401,Africano Alonso,Bogota D.C.,2144265,Colombia,Bogota D.C.,hafricano@yahoo.com
+Alejandro,Cra. 16 # 84A-09 (308),Afanador,Bogota D.C.,6217221,Colombia,Cundinamarca,alejandroafanador@lanariz.com
+Jorge Andres,Calle 119 # 14-23 Piso 2.,Afanador Luque,Bogota D.C.,4006600,Colombia,Bogota D.C.,info@vitalcenter.com
+Claudia Patricia,Cra 8 N 2-46 Consultorio 211 Edificio Hormaza,Adrada Cruz,Popayan,8243844,Colombia,Cauca,cpadrada@yahoo.com
+Arnoldo,Cra. 64C # 85-85 Casa 3,Acuña Villera,Barranquilla,3731251,Colombia,Atlantico,arnoldac40@hotmail.com
+Maria Isabel,Cra. 16# 82-95 (408),Acosta,Bogota D.C.,2184874-6217908,Colombia,Bogota D.C.,miacost@gmail.com
+Camilo Enrique,Calle 98 # 15-17 Cons. 508,Acosta Guerrero,Bogota D.C.,,Colombia,Bogota D.C.,acostacami@gmail.com
+Jose Fabio,Cra. 50 A # 64-65 (311) Clinicael Prado,Acosta Mesa,Medellin,2639590,Colombia,Antioquia,josefabioacosta@hotmail.com
+Xavier,Calle 9C # 50-25  Cons. 601,Abad Xavier,Cali,5133754-35,Colombia,Valle Del Cauca,xaviersanchezmd@gmail.com
+Rafael E.,Cra. 58 # 70-129 (401),Hernandez Herazo,Barranquilla,3573302,Colombia,Atlantico,rhernanhh@hotmail.com
+Fredy Augusto,Calle 94 A # 13-08 (404),Hernandez Leon,Bogota D.C.,6347447,Colombia,Bogota D.C.,frestetica1@gmail.com
+Boris,Calle 78 # 57-215 (305),Henriquez Gonzalez,Barranquilla,3554845-3553008,Colombia,Atlantico,drhenriquez@yahoo.com
+Hernan Dario,Edificio Comedal Of. 903,Henao Morales,Medellin,2515813,Colombia,Antioquia,hdhenao22@hotmail.com
+Wilman,Cra. 49B # 79-01 L-27 C.C. Plaza De,Gutierrez Ortiz,Barranquilla,3605990 - 3577903  ,Colombia,Atlantico,wilmangutierrezo@yahoo.com
+Maria Patricia,Tranv. 14 # 126-11 (306),Gutierrez De Reyes,Bogota D.C.,6581616-6581603/6147180,Colombia,Bogota D.C.,lupajuna@cable.net.co
+Clara Linda,Cra. 16 # 82-95 (303),Guerrero Serrano,Bogota D.C.,2184787-2187764,Colombia,Bogota D.C.,lindague@gmail.com
+Miguel,Cra. 11 # 97-23 P- 5,Guerra De La Espriella,Bogota D.C.,2369673-2181080,Colombia,Bogota D.C.,chicotours@hotmail.com
+Carlos Alberto,Calle 19 Norte # 5N-35 (506),Guerrero Duque,Cali,6677705-6678369,Colombia,Valle Del Cauca,carlosaguerrero@hotmail.com
+Maria Clara,Calle 119 # 7-14 Cons. 419 Edif. Sta B,Guerrero Forero,Bogota D.C.,6299514-4835273,Colombia,Bogota D.C.,mariaclarag@yahoo.com
+Carlos Augusto,Cra. 19C # 90-14 (702),Gross Rodriguez,Bogota D.C.,6105208,Colombia,Bogota D.C.,info@drcarlosgross.com
+Carolina,Avda. 19 # 131-40 Apto. 701 Torre B,Granados Lopez,Bogota D.C.,6150559,Colombia,Bogota D.C.,carogralo@yahoo.com.mx
+Alfonso Yesid,Cra. 51B # 94-334 Cons.412,Granados Acuña,Barranquilla,3784777,Colombia,Atlantico,alsgranados23@gmail.com
+Alan Albeiro,Cra. 13 # 93-68 Cons. 503,Gonzalez Varela,Bogota D.C.,6224123,Colombia,Bogota D.C.,ag@alangonzalez.com
+Silvia,Calle 91 # 19C-62 Cons. 605,Gonzalez  Tomaskovich,Bogota D.C.,2184351-2184354,Colombia,Bogota D.C.,siltomasko@gmail.com
+Alejandro,Cra. 29 # 47-108,Jaimes Soto,Bucaramanga,6435040-6436124,Colombia,Santander,ajaimess@hotmail.com
+Sandra Milena,Cra. 111C # 81-30 Int. 11 Apto. 101,Gonzalez Tamara,Bogota D.C.,4714460,Colombia,Bogota D.C.,sgonzalez_plastica@hotmail.com
+Maria Cristina,Cra. 31 # 51-74 Cons. 608 Torremardel,Jaimes Plata,Jerico,6472282,Colombia,Antioquia,crisjaimesplastica@hotmail.com
+Ricardo A.,Cra. 11 B # 98-08 (604),Gonzalez Rodriguez,Bogota D.C.,6428633,Colombia,Bogota D.C.,rg@doctorricardogonzalez.com
+Nayibel Stella,Cra. 42 A # 5 B 96 Barrio Tequendama Unimeb,Jacome Manosalva,Cali,5535209-5529939-5529940,Colombia,Valle Del Cauca,drajacome@hotmail.com
+Hector D'J.,Calle 7 # 39-107 (713) El Poblado- Medical,Iriarte Garcia,Medellin,3112119/3152744604,Colombia,Antioquia,hiriarteplastica@hotmail.com
+Ramiro,Cra. 9 No. 117-20 Cons.609,Huertas Motta,Bogota D.C.,2152947- 2152300 ext 1609,Colombia,Bogota D.C.,ciruplas2002@mac.com
+Akeber Nacira M.,Cra. 45 # 84-165,Ibañez Okamell,Barranquilla,3786215,Colombia,Atlantico,akeber@cirugiaplasticaakeber.com
+Carlos Enrique,Cra. 17 # 11-41 Pinares De San Martin,Hoyos Salazar,Pereira,(0563) 348215-,Colombia,Risaralda,cehoyoscp@gmail.com
+Alfredo Ernesto,Calle 119 # 11D-30,Hoyos Ariza,Bogota D.C.,2145820-4717019,Colombia,Bogota D.C.,alhoyos@gmail.com
+Gustavo Andres,Calle 93 # 19 B 66 Consultorio 104 Edificio Centro Profesional 93,Hincapie Molina,Bogota D.C.,4794466   4793535,Colombia,Bogota D.C.,micirugia@gmail.com
+Javier Ignacio,Centro Med. Ardila Lulle (502),Higuera Escalante,Bucaramanga,6384160 Ext.1233,Colombia,Santander,jhiguerae@hotmail.com
+Jose Ovidio,Calle 34 # 56-98 Bl. 3 Apto. 110,Herrera Montoya,Bello,2726912,Colombia,Antioquia,ovihe12@yahoo.com
+Alvaro Mauricio,Calle 127 A # 7 - 53  Cons 6007,Herrera Cepeda,Bogota D.C.,8052692  -  8052697,Colombia,Bogota D.C.,maoherr@hotmail.com
+Carmen Judith,Cra. 1 # 14-54B B/Grande Ed.Seguros Bolivar,Herrera Argumedo,Cartagena,6652767-6617989,Colombia,Bolivar,cjherrera16@gmail.com
+Franciso Leon,Cra. 45 # 53-38  Cl. De Fracturas,Hernandez Velasquez,Medellin,4441516,Colombia,Antioquia,leonhernandez@une.net.co
+Adriel,Clinica Las Vegas Cons. 336,Hernandez Sanchez,Medellin,2508903-3117371,Colombia,Antioquia,adriel@une.net.co
+Johanna Ivonne,Cra. 38A # 5A-100 Centro Med. Imbanaco,Hernandez Rojas,Cali,5516972-5533118,Colombia,Valle Del Cauca,drajohannahernandez@gmail.com
+Elizabeth,Diagonal 61B # 22-31 Apto. 601,Garces Sanchez,Bogota D.C.,6677799-6681623,Colombia,Bogota D.C.,elizagarces@yahoo.com
+Jennifer,Cra. 55B # 186-84 Apto. 308-2,Gaona Silva,Bogota D.C.,,Colombia,Bogota D.C.,j.gaona.s@gmail.com
+Belman,Cl 9 No 44-11 Of 201,Galvis Maldonado,Cali,5531388/5510833,Colombia,Valle Del Cauca,dcorpusinternational@yahoo.com
+Nicolas Arturo,Cra. 43A # 5B-18 (202) Tequendama,Gallo Jimenez,Cali,5516972 Ext.214-222,Colombia,Valle Del Cauca,nicogallo65@gmail.com
+Ricardo Mario,Tranv. 14 # 127-11 (404),Galan Suarez,Bogota D.C.,6581604-6581616,Colombia,Bogota D.C.,ricgalan@gmail.com
+Sabrina,Calle 7 # 39-290 Cons. 515 Clinica Medellin,Gallego Gonima,Medellin,3525069,Colombia,Antioquia,sgallegog@gmail.com
+Aquilino,Calle 17 N # 14-20 (202),Gaitan Castro Aquilino,Armenia,7493519,Colombia,Quindio,aquigaitan@yahoo.com
+Leonardo,Cra. 50 #80-242,Forero Obregon,Barranquilla,3583080,Colombia,Atlantico,foreroobregon@hotmail.com
+Oscar Antonio,Avda. Alfonso Araujo # 22-86,Fontalvo Malo,Cartagena,6500005,Colombia,Bolivar,ofontalvom@yahoo.com
+Juan Manuel,Calle 9C # 50-25 (807),Florez Rodriguez,Cali,4878087,Colombia,Valle Del Cauca,drjuanm.plastic@gmail.com
+Hernando,Cra. 43 A No. 5B-06,Florez Ospino,Cali,4855551,Colombia,Valle Del Cauca,consultorioflorez@hotmail.com
+Andres,Calle 127 # 19A-28 Con. 314,Ferro Morales,Bogota D.C.,6497605 - 6497606,Colombia,Bogota D.C.,andresferro123@gmail.com
+Nicolas,Calle 97 # 23-37 Cons. 420,Ferrer Perez,Bogota D.C.,6426921,Colombia,Bogota D.C.,ferrernicolas@hotmail.com
+Juan Carlos,Calle 15 # 3E-101,Fernandez Romero,Cucuta,5714192,Colombia,Norte De Santander,juanciruplas@hotmail.com
+Julio Cesar,Calle 1 # 19D-66,Fernandez Rojas,Valledupar,5833867,Colombia,Cesar,cesarfernandez118@hotmail.com
+William,Cra. 40 # 5B-100    (205),Fernandez Ospina,Cali,5536460-5511717,Colombia,Valle Del Cauca,williamfernandezospina@hotmail.com
+Oswaldo,Calle 134 # 7-83,Gomez Diaz,Bogota D.C.,6278279,Colombia,Bogota D.C.,oswgomez@cable.net.co
+Juan Carlos,Cra. 3 # 44-35 Barrio Piedra Pintada,Fajardo Arbelaez,Ibague,2644050-2662616,Colombia,Tolima,jcfplastic@yahoo.com
+Hector Fernando,Calle 20 # 8-15,Gomez Cortes,Girardot,8335173-8354200,Colombia,Cundinamarca,hectorplastic@yahoo.com
+Andres Felipe,Transv. 39 # 74-20,Gomez Corrales,Medellin,2500945,Colombia,Antioquia,gomezcorrales@hotmail.com
+Martha Elena,Calle 2 Sur # 46-45 Cons. 456 Fase Ii Cl,Gomez Botero,Medellin,2683818,Colombia,Antioquia,megomezbotero@hotmail.com
+Juan Carlos,Cra. 40 # 5B-100 (213),Gomez  Perez,Cali,5520492,Colombia,Valle Del Cauca,juankgomezmd@gmail.com
+Julio Alberto,Cra. 25 A # 1-31 (716) Parque Emp. El Tesoro,Giraldo Mesa,Medellin,3174478,Colombia,Antioquia,julioagiraldo@une.net.co
+Julio Enrique,Autop. Norte # 106-30 (601),Gil Antorveza,Bogota D.C.,5239262,Colombia,Bogota D.C.,j-gil@plastiestetica.com
+Jorge Luis,Calle 62 # 3B - 25 Apto 706 Edificio Balcones De Altaloma Iii,Gaviria Castellanos,Bogota D.C.,2350372,Colombia,Bogota D.C.,gaviriajorgeluis@yahoo.com
+Tatiana,Cra. 7 A # 121-33,Garcia Vanegas,Bogota D.C.,2145885-2146199,Colombia,Bogota D.C.,tatygarciavan@hotmail.com
+John Edwin,Calle 3 Oeste # 34-96 Cl,Garcia Serna,Cali,5532525,Colombia,Valle Del Cauca,contacto@johangarciacirugiaplastica.com
+Rodrigo,Cra. 25 B # 16A Sur -211 Bioforma,Gaviria Obregon,Medellin,3171626/3171331,Colombia,Antioquia,rodrigo.gaviria@biofarma.com
+Viviana,Cra. 40 # 5B-100 (205) Tequendama,Garcia Gomez,Cali,5531298,Colombia,Valle Del Cauca,info@dravivianagarcia.com
+Monica Maria,Calle 33 # 42B-06 (1220) Torre Sur San Diego,Garcia Gutierrez,Medellin,2623915-2620230,Colombia,Antioquia,monicamg@une.net.co
+Adriana,Calle 134 # 7B-83 Cons. 601,Garcia Espinosa,Bogota D.C.,6333603,Colombia,Bogota D.C.,garciespi@hotmail.com
+Rafael Cristobal,Clinica Portoazul .Cons. 632,Garcia Di-Zeo,Barranquilla,3672745-3782125,Colombia,Atlantico,doctor.rafaelgarcia@gmail.com
+Concha,Tranv. 14 # 126-11 (506),Garcia De Tellez,Bogota D.C.,6581616-6581605,Colombia,Bogota D.C.,doctoraconcha@gmail.com
+Alejandra,Cra. 14 # 127-11 (603),Garcia Botero,Bogota D.C.,6334509,Colombia,Bogota D.C.,alebotero@hotmail.com
+Felipe Andres,"Centro Medico Ardila Lulle, Torre B Piso 11 Modulo 66B",Estevez Trujillo,Bucaramanga,6388100,Colombia,Santander,felipeestevez@gmail.com
+Omaira,Centro Medico Los Ejecutivos Cons 204,Espitaleta Nuñez,Cartagena,6613500/6710256,Colombia,Bolivar,omasnucartagena@hotmail.com
+Rosa Claudia,Cra. 45 # 82-133,Eslait Merchan,Barranquilla,3596991-3592221,Colombia,Atlantico,serandres1@hotmail.com
+Julio Cesar,Cra. 40 # 5B-100 B. Tequendama,Escobar Fonseca,Cali,5135000-5136060,Colombia,Valle Del Cauca,cirugiaplasticali@hotmail.com
+Jorge Jose,Cra. 16 # 82-51 (801),Echeverry Otalvarez,Bogota D.C.,,Colombia,Bogota D.C.,jjecheverry@hotmail.com
+Francisco Fabian,Cra. 45 # 1-191 Torre 1 Ap.1607 Torres Patio Bonito,Erazo Lopez,Medellin,,Colombia,Antioquia,ferasomd@yahoo.com
+William,Calle 1A Sur # 43A-49 (206) Edif. Colmena,Echeverry Duran,Medellin,3110555-3110269,Colombia,Antioquia,wecheverry@une.net.co
+Alberto,Diag 75  No 2A-80 Cons 422,Echeverry Arango,Medellin,3459160/3459154/3459184,Colombia,Antioquia,albertoecheverry@yahoo.com
+Felix Raffet,Avda. 19 # 114-87 (20I),Duran Gonzalez,Bogota D.C.,6377927/26,Colombia,Bogota D.C.,felixduran@hotmail.com
+Clemencia,Diag.75B # 2A-80 (419)Torre M,Duque Vera,Medellin,3459159-3459160/3459184,Colombia,Antioquia,duqueclemencia@hotmail.com
+Amanda C.,Calle 24 # 32-56,Duque Ramirez,Bogota D.C.,3409284,Colombia,Bogota D.C.,duqueamanda@yahoo.com
+Maria Eugenia,Cra. 43A # 5B-18,Duque Franco,Cali,5516972-6811459,Colombia,Valle Del Cauca,mariuduque@hotmail.com
+Alejandro,Avda 19 # 95-31 (211),Duque,Bogota D.C.,6021071,Colombia,Bogota D.C.,maripazduque@gmail.com
+Maria De La Paz,Cra. 20 # 86-09 Paralela Occ.Autop. Norte,Duque Acosta,Bogota D.C.,6164793,Colombia,Bogota D.C.,aduquer@yahoo.com
+Clara Ines,Cra. 105 # 11-56 Edif. 4 Apto. 601,Dorado Olarte,Cali,3701571,Colombia,Valle Del Cauca,cidorado@gmail.com
+Restrepo Pierre,Avda 8 Norte # 23N-08,Didyme Dome,Cali,6671167-6671032,Colombia,Valle Del Cauca,doctorjeanpierre@hotmail.com
+Gonzalo,Cll 2 Sur No 46-55 Of 450,Diaz Palmett,Medellin,2680158/2660999,Colombia,Antioquia,sdiaz@une.net.co
+Carlos Julian,Calle 49 # 28-24 -Sotomayor,Diaz Serrano,Bucaramanga,6571286,Colombia,Santander,diazcirulaser@gmail.com
+Carlos Julio,Calle 92 # 19C-62 Cons. 301-302,Diaz Davila,Bogota D.C.,6171958-6171960,Colombia,Bogota D.C.,carlosdiazplastica@hotmail.com
+Jenny Maricela,Cra. 46 # 7-227 Patio Bonito,Diaz Cortes,Medellin,4440539,Colombia,Antioquia,jennydiaz@une.net.co
+Ruy Rodrigo,Diag. 75 B # 2A-80 (420),Diaz Calle,Medellin,3459159,Colombia,Antioquia,rdiaz@epm.net.co
+Andres,Carrera 18 # 86A-15,Degournay Chibas,Bogota D.C.,2368276,Colombia,Bogota D.C.,adegournay@hotmail.com
+Maria Helena,Cra 51 B No 94-334 Con 401,De La Rosa Paez,Barranquilla,3736485/3736409,Colombia,Atlantico,dlrplastic@yahoo.com
+Edwin Alfredo,Calle 23 # 1-35,Cumplido Mendoza,Monteria,7850667,Colombia,Cordoba,ciruplasteu@hotmail.com
+Diana Amira,Calle 82# 55-55 Con 305,Cure Orfale,Barranquilla,3738474,Colombia,Atlantico,dradianacure@gmail.com
+Fabian Rodrigo,Calle 50 # 8-24 (702) Cl. Marly,Cuevas Navarrete,Bogota D.C.,3100884,Colombia,Bogota D.C.,plastica@fabiancuevasmd.com
+Genaro,Calle 52 # 27-76,Cuello Mendoza,Barrancabermeja,6223783,Colombia,Santander,genplast07@hotmail.com
+Maria Mercedes,Clinica Carlos Ardila Lulle,Cristancho Ortiz,Bucaramanga,6452538,Colombia,Santander,mmcristancho@gmail.com
+Jaime Alfonso,Cra. 10 # 62-12 Cons 207,Covaleda Herrera,Bogota D.C.,3104994,Colombia,Bogota D.C.,jaimecovaleda@hotmail.com
+Edgar,Cra. 7 # 6-84 Cons. 203,Cortes Osorio Edgar,Neiva,8715676,Colombia,Huila,consultoriodr.cortes@hotmail
+Hugo Horacio,Diag.127A # 29-88 (719),Cortes Ochoa,Bogota D.C.,2595500,Colombia,Bogota D.C.,esteticaycirugia@yahoo.com
+Elsa Patricia,Cra. 27 # 135-81 Apto. 102,Cortes Martinez,Bogota D.C.,2167948-2585555,Colombia,Bogota D.C.,visalgado@yahoo.com
+Luis Stevenson,Autopista Norte # 106-30 Cons. 612,Cortes,Bogota D.C.,5239365-5239334,Colombia,Bogota D.C.,stevensoncortes@yahoo.com
+Cesar Augusto,"Calle 127 N 19 A 28 , Cons 301",Barrera Ramirez,Bogota D.C.,4674107,Colombia,Bogota D.C.,cesbarrera@hotmail.com
+Diego Ivan,Cra 46 # 9 C- 85,Barona Anderson,Cali,2 524 14 88,Colombia,Valle Del Cauca,drdibarona@hotmail.com
+Catherine,Calle 119 N 7-14 Cons 706,Baron Cifuentes,Bogota D.C.,057 1 6371025,Colombia,Bogota D.C.,catherine.baronc@gmail.com
+Saad Salim,Centro Comercial Palmeto Plaza Local 100,Barhoum Farai,Cali,5518532/5518532,Colombia,Valle Del Cauca,dr.saadbarhoumciruplastica@hotmail.com
+Ernesto,Calle 127 A # 7-53 (404),Barbosa Landinez,Bogota D.C.,8052692-8052697,Colombia,Bogota D.C.,hebarbosa@yahoo.com
+Carlos Santiago,Calle  3 Oeste #34-96,Barbato,Cali,5584391-5584389,Colombia,Valle Del Cauca,carlos@doctorbarbato.com
+Carol,Centro Med. Imbanaco (224) Torre A,Baptista Serrato,Cali,5584227,Colombia,Valle Del Cauca,carolbaptista@live.com
+Onofre De Jesus,Cra. 6 # 5-161 B/Grande.Centro Med. Prisma,Ballestas Campo,Cartagena,6658944,Colombia,Bolivar,onofrebc@hotmail.com
+Hugo,Cra. 16A # 82-46 (307),Balaguera Herrera,Bogota D.C.,2960507-6202178,Colombia,Bogota D.C.,contacto@hugobalaguera.com
+Tulio Ernesto,Calle 79 # 18-18 (302),Avila Roa,Bogota D.C.,2568448-2530883,Colombia,Bogota D.C.,tulioavila@hotmail.com
+Cesar Fernando,Calle 97 # 23-37 (304) C. Med. Daly,Avila,Bogota D.C.,2565826-2184259,Colombia,Bogota D.C.,cafam67hotmail.com
+Maria Mercedes,Cra. 17 # 9A-50,Arzuaga Martinez,Valledupar,5736030,Colombia,Cesar,mariamercedesarzuaga@hotmail.com
+Patricia,Calle 49 #27A-65 Cons.506 Edif. Kbc,Arria Rada,Bucaramanga,6193286,Colombia,Santander,patriciaarria@msn.com
+Alejandro Antonio,Cra. 12 # 1N-20 Cons. 204,Aristizabal Martinez,Armenia,7468382-7468386,Colombia,Quindio,plasticacicer@hotmail.com
+Jorge Eduardo,Avda. 9 # 116-20 (622),Aristizabal G.,Bogota D.C.,2150558-2152300,Colombia,Bogota D.C.,esteticabogota@yahoo.com
+Rolando Eduardo,Cra 23 # 124-87 Torre 1 Con . 604 Edif.Zantai,Arias Garcia,Bogota D.C.,7595831,Colombia,Bogota D.C.,rolandoariasmd@gmail.com
+Luis Fernando,Calle 7 # 39-290 Cons. 1216 Cl. Medell,Aristizabal Aramburo,Medellin,2669823,Colombia,Antioquia,luisaris2011@hotmail.com
+John Emiro,Calle 33 # 74E-80 Cl. Medellin,Cortes Barbosa,Medellin,2503941,Colombia,Antioquia,jamanata@hotmail.com
+Jaime Roberto,Cra. 40 # 5B-100,Arias Gonzalez,Cali,5536460-5536459,Colombia,Valle Del Cauca,jaimearias@cqbelleza.com
+Margarita,Avda. Boyaca # 129-01,Correa Susana,Bogota D.C.,2710080,Colombia,Bogota D.C.,juancorena@yahoo.com
+Reinaldo,Cra. 56 # 82-12,Corrales Rodriguez,Barranquilla,3568240-3580461,Colombia,Atlantico,leorey01@hotmail.com
+Juan Carlos,Cra. 19 A # 82 - 85  Consultorio 416 Country Medical Center,Corena Mercado,Bogota D.C.,57-1 7954285,Colombia,Bogota D.C.,juancorena@yahoo.com
+Hernan Ignacio,Calle 5D #38A-35 Torre 2 Of.814-815 Edif. Vida Centro Prof.,Cordoba Lopez,Cali,5518244-5518241-5130162,Colombia,Valle Del Cauca,administracion@hernancordobamd.com
+Lida Astrid,Calle 83 # 42C-61,Cohen Cohen,Barranquilla,3594716,Colombia,Atlantico,licohen_cirugiaplastica@hotmail.com
+Adriana Milena,Calle 70 # 3N-110,Cordoba Castrillon,Cali,4324467,Colombia,Valle Del Cauca,adriana_cordoba@hotmail.com
+Claudia Marcela,Autop. Norte # 104A-72 (304),Clavijo Rodriguez,Bogota D.C.,6002555,Colombia,Bogota D.C.,cmclavijo@hotmail.com
+Fernando,Av 1,Cianci Bastos,Cucuta,5730682,Colombia,Norte De Santander,fernandocianci@hotmail.com
+Oscar De Jesus,Calle 2 Sur # 46-55 Cons. 235,Chica Gutierrez,Medellin,3116344-3318442,Colombia,Antioquia,oscar@oscarchica.com
+Alejandro,Calle 97 N 23 - 37 ( 622) Centro Medico Dali,Chiappe Duarte,Bogota D.C.,6010316,Colombia,Bogota D.C.,aleyoquia@gmail.com
+Oswaldo,Avda 5An # 47B-09,Charry Quintero,Cali,6541145,Colombia,Valle Del Cauca,ocharrycirplast@yahoo.com
+Nelson,Autop. Norte Calle 97 # 23-37 (513-514),Chaves,Bogota D.C.,6421400,Colombia,Bogota D.C.,info@drchaves.com
+Enrique Alonso,Avda El Dorado # 68C-61 Cons. (621),Chaparro Aranguren,Bogota D.C.,4271604,Colombia,Bogota D.C.,eacha@yahoo.com
+Angela Lucia,Cra 15 # 88-64 Cons. 314 Edif. Torre Zimma,Chamorro Fajardo,Bogota D.C.,8850781,Colombia,Bogota D.C.,contacto@angelachamorro.com
+Juan Leonardo,Calle 19 # 24-50,Chadid Bitar,Sincelejo,2813111-2824128,Colombia,Sucre,leonardochadid@hotmail.com
+Franco Javier,Calle 125 # 21A-38,Caycedo Rosero,Bogota D.C.,6192111-6191488,Colombia,Bogota D.C.,caycedofranco@hotmail.com
+Mario German,Avda. Ca,Arcila Jimenez,Cali,3312811-3312812,Colombia,Valle Del Cauca,mg-arcila@hotmail.com
+Diego Jose,Cra. 43A #5B-18,Caycedo Garcia,Cali,5516972-3151938,Colombia,Valle Del Cauca,diegojosecaycedo@gmail.com
+Luis Orlando,Cra. 5 # 31-114 (504),Arboleda P.,Ibague,2646297-2656370,Colombia,Tolima,nano_arb@hotmail.com
+Sergio,Cra. 45 # 82-133,Arbelaez Bolaños,Barranquilla,3596991,Colombia,Atlantico,serandres1@hotmail.com
+Jorge Fernando,Cra. 22#100-24,Arango Ospina,Bogota D.C.,2571399,Colombia,Bogota D.C.,fernandoarango191@hotmail.com
+Carlos Ernesto,Cra. 15 # 84-24 (207) Edif. Centro Country,Arango Tumiñan,Bogota D.C.,2562634,Colombia,Bogota D.C.,consulta@drcarlosarango.com
+Fabio Alberto,Calle 17C Sur#44-83- 613,Arango Mejia,Medellin,3141412-3218021,Colombia,Antioquia,fabioarangomd@gmail.com
+Alvaro Humberto,Calle 5C # 43-10,Arana Nuñez,Cali,5532407,Colombia,Valle Del Cauca,info@alvaroarana.com
+Jose Amado,Calle 15 # 20-105,Aramendiz Gomez,Santa Marta,4234577-4205862,Colombia,Magdalena,ware8004@hotmail.com
+Maria Isabel,Carrera 14 # 98-95 Consultorio 411,Aragon Concha,Bogota D.C.,6109283-6108652,Colombia,Bogota D.C.,miasalud3@outlook.com
+Jorge,Cra. 23 # 62-05,Angel Pinzon,Manizales,8859929,Colombia,Caldas,jorgeangelmd@gmail.com
+Maria Cristina,Calle 81C # 27-04 Casa 14,Angel Pinzon,Manizales,855525-811520/ 8811598,Colombia,Caldas,macrisangel@gmail.com
+Jairo Ramiro,Calle 134 # 7B-83 Cons.421,Angarita Medellin,Bogota D.C.,6271898-6151999,Colombia,Bogota D.C.,jrangarita_8@hotmail.com
+Ernesto,Cra. 19C # 90-59,Andrade Carrasco,Bogota D.C.,6162940-5305925,Colombia,Bogota D.C.,info@ernestoandrade.com
+Felipe,Cra. 9 # 117-20 (220),Amaya Espinosa,Bogota D.C.,6373040-2152300,Colombia,Bogota D.C.,amayafelipe@yahoo.com
+Juan Dario,Calle 49 # 28-24 Centro Laser,Alviar Rueda,Bucaramanga,6571286,Colombia,Santander,juandalviar@yahoo.com.ar
+Hernan,Cra 15 83-33,Amaris Jimenez,Bogota D.C.,7463070,Colombia,Bogota D.C.,hamaris@cirugiayestetica.com
+Daniel Oswaldo,Cra. 16 # 84A-09 (411),Alvarez Ramirez,Bogota D.C.,6216261-6216281,Colombia,Bogota D.C.,dalvarez531@hotmail.com
+Geovanny,Cr 46 No 9C-58  Con. 603/604Clinica Santillana,Alvarado Hermida,Cali,5242410/5534433,Colombia,Valle Del Cauca,gacorreo@yahoo.com
+Jorge Bernardo,Calle 58 # 23A-03 Cons. 1 Edif. Xue,Castrillon Ramirez,Manizales,,Colombia,Caldas,bcastrillon@hotmail.com
+Ramiro,Cra. 25B # 16A Sur-211 Clinica Bioforma,Alvarez Henao,Medellin,3171626,Colombia,Antioquia,ramiroalvarezh@gmail.com
+Diego Alberto,Calle 54 # 46-27 (1003),Castrillon Muñozo,Medellin,5116634,Colombia,Antioquia,dacastrillon@une.net.co
+Maria Esther,Calle 93B # 16-08 (210),Castillo Garcia,Bogota D.C.,2578859-6166041,Colombia,Bogota D.C.,meccol@hotmail.com
+Rosmery,Calle 22 # 14-70 Sala 6 Cons.24,Castillo Fakiolas,Santa Marta,4314496,Colombia,Magdalena,rosmerycastillofakiolas@hotmail.com
+Jesus Antonio,Calle 28 # 7-34 Edif. Somec,Castillo C.-,Monteria,7810786-7820573,Colombia,Cordoba,jesuscastillocastillo@hotmail.com
+Juan Carlos,Avda. 2C Norte # 24N-120 (305),Castilla Zamorano,Cali,6602597/6534295,Colombia,Valle Del Cauca,cirugiaplastica@doctorcastilla.com
+Julio Cesar,Calle 147 # 15-53 Apto. 308,Castañeda Zakzuk,Bogota D.C.,6144132,Colombia,Bogota D.C.,jzakzuk@hotmail.com
+Julian Andres,Carrera 19 # 12-50 Megacentro Cons. 408,Castellanos Jimenez,Pereira,3214494,Colombia,Risaralda,jacastellanos50@hotmail.com
+Abdiel,Calle 19 # 5-13 (611) Cl. Risaralda,Castaño Bardawil,Pereira,3346330,Colombia,Risaralda,abdielca@hotmail.com
+Jenny,Calle 2 Sur # 46-55 (266) Fase Ii,Carvajal Pareja,Medellin,4441312,Colombia,Antioquia,yennycar@hotmail.com
+Balmiro Jose,Cra.7A # 6-42 Barrio Nocalito,Carrillo Maestre,Valledupar,5713783,Colombia,Cesar,drbalmiroc@hotmail.com
+Victor Hugo,Calle 15 No. 14-33  Edif. Portal Del Valle,Carrillo Garcia,Valledupar,709068-712575,Colombia,Cesar,luluariza14@hotmail.com
+Maria Consuelo,Calle 90 # 16-29 3Er. Piso,Carranza Botia,Bogota D.C.,6234901,Colombia,Bogota D.C.,plastica@consuelocarranza.com
+Carlos Javier,Av. Pepe Sierra Calle 116 # 16-45,Carranza Botia,Bogota D.C.,2157881-6128362,Colombia,Bogota D.C.,doctorjaviercarranza@hotmail.com
+William,Cra. 9 # 25-25 (203) Cl. Los Rosales,Cardona Patiño,Pereira,3243963,Colombia,Risaralda,williamcardonap@yahoo.com
+Yesid,Calle 7 # 39-197 Of. 1114,Cardenas,Medellin,3214429,Colombia,Antioquia,yesidcardenas.consultorio@gmail
+Juan David,Cl 7 No 39-197  Torre Intermedica Piso 18 Con. 1816,Betancourt Parra,Medellin,3520264- 3524377,Colombia,Antioquia,plastic.jdb@gmail.com
+Maria Alexandra,Cra. 7 A # 121-33,Bernal Niño,Bogota D.C.,2145885-2146199,Colombia,Bogota D.C.,albernal1@gmail.com
+Ivonne Del Carmen,Cra. 56 # 82-12,Bernal Moreno,Barranquilla,3785946-3568243,Colombia,Atlantico,bernalivonne@gmail.com
+Rodney Miguel,Cl 26 No 6-35 Con 503,Berrocal Canabal,Monteria,7820212/7815391/7851295,Colombia,Cordoba,rodneyberrocal@hotmail.com
+Manuela,Centro Med. Bocagrande Of.3 Piso 1O.,Berrocal Revueltas,Cartagena,6657192-6655940-6658065,Colombia,Bolivar,manebe@une.net.co
+Alma Regina,Clinica Farallones (700),Bernal Castro,Cali,5133829-5532113,Colombia,Valle Del Cauca,areginabc@gmail.com
+Rocio Macarena,Cra. 22 # 100-24,Benito Leon,Bogota D.C.,6090764,Colombia,Bogota D.C.,cio973@hotmail.com
+Paola Vanessa,Carrera 22 # 100-24 Clinica Santa Barbara,Benavides Caro,Bogota D.C.,2571399,Colombia,Bogota D.C.,drapaolab@yahoo.com
+Angel Rodrigo,Tranv. 17 No. 124-85,Beltran Sierra,Bogota D.C.,6084177-4817177,Colombia,Bogota D.C.,rodrigobeltransierra@gmail.com
+Aldo Giovanni,"Diag 115 A # 70 C - 75, Casa 9, Consultorio 4. Clínica Shaio",Beltran Pardo,Bogota D.C.,3172455823,Colombia,Bogota D.C.,aldogmd@yahoo.com
+Jose Antonio,Calle 50 # 7-36 Piso 6,Bello Santamaria,Bogota D.C.,3481017 Ext. 116,Colombia,Bogota D.C.,jabellsa@hotmail.com
+Rosalba,Cra. 40 # 5B-100 (208)Centro Quir,Bejarano Arana,Cali,5522162,Colombia,Valle Del Cauca,drarossi@drarosalbabejarano.com
+Edgar Alonso,Calle 6 Sur # 43A-200 Edif. Lugo,Becerra Torres,Medellin,2681132,Colombia,Antioquia,edgarbecerra@une.net.co
+Gilberto Antonio,Calle 2 # 22-83 Barrio Bachue,Basante Ceron,Pasto,7236671-7239957,Colombia,Nariño,drantonygbc@hotmail.com
+Lisette,Cra. 9 # 117-20 (504),Barreto Hauzeur,Bogota D.C.,2152973-2152300,Colombia,Bogota D.C.,plasticaama@gmail.com
+Andres,Calle 96 # 10-29 Of. 502,Barrera Vanhissenhoven,Bogota D.C.,6915168,Colombia,Bogota D.C.,abvanh@yahoo.com
+Maria Del Pilar,Calle 3 Oeste #34-96,Cabal Diaz,Cali,5586446,Colombia,Valle Del Cauca,consuldracabal@hotmail.com
+Ivan,Clinica Porto Azul. Consultorio 617,Caballero Caballero,Barranquilla,+575 3672667,Colombia,Atlantico,ivancaballero3@hotmail.com
+Marcela,Calle 19 Norte # 5N-35 Cons. 709 Centro Med. Cali,Cabal Castro,Cali,6688103-6777662,Colombia,Valle Del Cauca,areginabc@gmail.com
+Aulio Enrique,Cra. 51 B # 94-334 (309) Centro Med. Vital,Bustos Diaz,Barranquilla,3782590-3570653,Colombia,Atlantico,aulioplastico@yahoo.com
+Jose Alfredo,Calle 7 # 39-107 (1115) ]T. Medical P.11,Burgos Sierra,Medellin,2687574,Colombia,Antioquia,Joseburgossierra@gmail.com
+Erik,Cra. 91 # 19C-55 Cons. 303,Buitrago Gaviria,Bogota D.C.,6105134,Colombia,Bogota D.C.,erikbuitrago@yahoo.com
+Augusto,Cra. 12 # 0-75 (510) Edif. Clinica Del Caf,Bovea,Armenia,455539,Colombia,Quindio,Cirugiaplastica-abc@hotmail.com
+Ricardo,Avenida Juan B Gutierrez #17- 55 Cons. 601,Bonilla Bonilla,Pereira,3171137,Colombia,Risaralda,richibo@yahoo.com
+Luis Fernando,Cra. 25A # 1-31 Parque Emp. El Tesoro (907),Botero Gutierrez,Medellin,3114257,Colombia,Antioquia,luchobot@gmail.com
+Mauricio Alfredo,"Castillogrande, Calle 5 N6-151 P2",Bolivar Lombana,Cartagena,(5) 665-7283,Colombia,Bolivar,info@mauriciobolivarlombana.com
+Cesar Augusto,Cra. 15 # 12-73 Clinica Pereira B. Los Alpes,Bolaños Rios,Pereira,3334499,Colombia,Risaralda,cbolanosrios@yahoo.com
+Carlos Eduardo,Avda. 42 # 16B-26 ( 601) Cl. Nva. Palermo,Bohorquez Ortiz,Bogota D.C.,3401869-3401228,Colombia,Bogota D.C.,carboplast@yahoo.com
+Norman,Cra. 47 # 80-81,Blanco Portillo,Barranquilla,3567614,Colombia,Atlantico,normanblancop@hotmail.com
+Escobar Celso,Diagonal 115A#70C-75,Bohorquez,Bogota D.C.,2965035,Colombia,Bogota D.C.,info@celsobohorquez.com
+Danilo,Cra. 19 B # 85-65 Cl,Cardenas Lesmes,Bogota D.C.,6913244-2365647,Colombia,Bogota D.C.,dacarles@hotmail.com
+German Enrique,Calle 9C # 50-258 (409),Cardenas Gil,Cali,5533724,Colombia,Valle Del Cauca,gecaplastico15@hotmail.com
+Olga Cecilia,Cra 49 C # 84-97,Carbonell Sarmiento,Barranquilla,3575924,Colombia,Atlantico,olcasar@yahoo.com
+Jorge Ernesto,Cra. 14 # 127-11 (505),Cantini Ardila,Bogota D.C.,6581605-2870900,Colombia,Bogota D.C.,jcantini@esteticamd.com
+Jorge Ivan,Cra 25 A # 1 A Sur 45 Torre Medica Cc El Tesoro Consultorio 1231 - 1232,Cañas Palacio,Medellin,4485177 - 3174271,Colombia,Antioquia,info@institutoacp.com
+Luz Nimia,Cra. 19C # 90-14 Cons. 703,Camelo Barrero,Bogota D.C.,6105182-6105187,Colombia,Bogota D.C.,info@mdlucerocamelo.com
+Carlos Alberto,Cll 97 No 23 37 Cons 605 Centro Medico Dali,Camacho Salas,Bogota D.C.,6004555,Colombia,Bogota D.C.,carloscamacho60@hotmail.com
+Bernardo,Cll.15 A # 103-20 Consultorio 306,Camacho Nuñez,Cali,5243024 - 5243023,Colombia,Valle Del Cauca,bernardo@bernardocamacho.com
+Gerardo,Calle 116 # 9-72 Cons. 516,Camacho Moncada,Bogota D.C.,057 - 3187120345-,Colombia,Bogota D.C.,carloscamachom@gmail.com
+Daniel Enrique,Cra. 53A # 118-55,Camacho Melo,Bogota D.C.,2139196,Colombia,Bogota D.C.,camachomelo@hotmail.com
+Jeannethe Del S.,Calle 9 C # 50-25 Cons. 1005,Cadena Loaiza,Cali,5133708-4878105,Colombia,Valle Del Cauca,jcadenaloaiza@gmail.com
+Juan Carlos,Cra. 10 # 50N-35 Int. 133,Caicedo Caicedo,Popayan,244603-231280,Colombia,Cauca,dr.caicedoplastico@gmail
+Maria Isabel,Cra 38 A No 5A-100 Torre A Cons.249,Cadena Rios,Cali,5586550,Colombia,Valle Del Cauca,doctora@mariaisabelcadena.com
+Diana Marcela,Avda. 9 # 116-20 Cons. 932,Cadena Buitrago,Bogota D.C.,2148620,Colombia,Bogota D.C.,dianacadena@hotmail.com
+Cristina Ines,Conjunto Residencial La Pera Casa # 9 Ca,Caceres De Coronel,Bucaramanga,097-6380011,Colombia,Santander,umeplastic.dracaceres@gmail.com
+Raul Eduardo,Calle 1A Sur # 43A-49 (206),Marquez Vanegas,Medellin,3110555-2658230,Colombia,Antioquia,tiolele2@hotmail.com
+Carlos Antonio,Cra. 43 A # 5A-90,Mejia Mazuera,Cali,6802900-5166093,Colombia,Valle Del Cauca,clinicarostroyfigura@gmail.com
+William R.,Avda. 1#17-93 (102B),Mogollon Rodriguez,Cucuta,5719723/5713495,Colombia,Norte De Santander,wrmogollon@hotmail.com
+Victor Alejandro,Cra. 14B # 161-54 Apt. 303,Ocampo Largo,Bogota D.C.,6737023,Colombia,Bogota D.C.,vaocampo@hotmail.com
+Fernando A.,Tranv. 59 # 104B-86 Con. 704 Edif. San Angel,Munar Gonzalez,Bogota D.C.,2266624-6177327,Colombia,Bogota D.C.,femunar@hotmail.com
+Manuel,Avda. Calle 24 # 81-93,Paez Malagon,Bogota D.C.,2636075,Colombia,Bogota D.C.,paezmanuel@hotmail.com
+Carolina,Carrera 16 # 106 -21 Consultorio 204,Peña Diaz,Bogota D.C.,6126822,Colombia,Bogota D.C.,caropediaz@hotmail.com
+Juan Carlos,Cra. 47 # 80-81 Cons. 4 Cl.Perfect Heealth,Pinilla Abucahibe,Barranquilla,3786011-3786010,Colombia,Atlantico,pinilla.07@hotmail.com
+Israel,Cra. 4 # 44-44 Piedra Pintada,Ramirez Martinez,Ibague,2655188-2645982,Colombia,Tolima,isplastic@yahoo.com
+Hector Mauricio,Calle 123 # 7-60,Sabogal,Bogota D.C.,2135125-6125594,Colombia,Bogota D.C.,mauriciosabogal@hotmail.com
+Alfonso,Cra 39 # 5A-91 Piso 3.,Riascos Villegas,Cali,5572070-5571792,Colombia,Valle Del Cauca,alfonso.riasco@imbanaco.com
+German Guillermo,Calle 124 # 7-38 (503),Rojas Duarte,Bogota D.C.,(57) 1-2157725,Colombia,Cundinamarca,contacto@germanrojas.com
+Sandra,Carrera 16#102-76. Apto 401,Santana Ballesteros,Bogota D.C.,6121118,Colombia,Bogota D.C.,santanasandra88@yahoo.com
+Luis Enrique,Bocagrande Calle 15-1 Carrera 28 Edificio Seguros Bolivar Local 13,Stave Tapia,Cartagena,6651311-6550181,Colombia,Bolivar,luisstave@hotmail.com
+Martha Luz,Cra. 7B # 144-57 (202),Torres Pabon,Bogota D.C.,2748300-2184772,Colombia,Bogota D.C.,mltorrespabon@yahoo.com
+Lina Maria,Cra. 11 # 118-13 Apto. 401,Vanegas,Bogota D.C.,2591367,Colombia,Bogota D.C.,linamvan@hotmail.com
+Harold,Calle 5D No. 38A35 Cons 704 Vida Centro Profesional.,Villalobos Cardenas,Cali,5575758,Colombia,Valle Del Cauca,doctor@haroldvillalobos.co
+Gloria E.,Cra. 16A # 80-65 (404)-Torre Oval,Vallejo Heano,Bogota D.C.,6111988,Colombia,Bogota D.C.,gvallejoh@yahoo.com
+Libardo,Cra. 42 # 18A-56 Piso 5O.,Vallejo Ceballos,Pasto,7314612,Colombia,Nariño,libardovallejo@bellatriz.com
+Juan Esteban,Cl 7 No39- 197 Piso 15 Con 1506,Vargas Duque,Medellin,3521101/ 3260274,Colombia,Antioquia,juanesvargas@hotmail.com
+Eduardo,Calle 86 # 49C-34 Centro Quirurg. Norte Barranquilla,Valiente Ruiz,Barranquilla,3563466-3563466,Colombia,Atlantico,evaliente99@yahoo.com
+Diego,Calle 26 Norte # 2Bn-35,Valencia Lucum,Cali,6671167,Colombia,Valle Del Cauca,info@drdiegovalencia.com
+John Jairo,Diag.75B # 2A-80 (523) Torre M,Valencia Quintero,Medellin,3459188/3417070/3417045-3214402,Colombia,Antioquia,valenciaplast@gmail.com
+Glenia Del Carmen,Calle 96A # 49C-278,Valera Zapata,Barranquilla,3558498-3575928,Colombia,Atlantico,gleniav43@hotmail.com
+Andres Felipe,Cr 20 No 2 Sur-185 Cons 1104,Urrego Gonzalez,Medellin,3269215,Colombia,Antioquia,afurrego@gmail.com
+Jorge Armando,Centro Med. Ardila Lulle P.6 Mod.23 (603A),Uribe Carvajal,Bucaramanga,6388277-6384160,Colombia,Santander,jauribec@gmail.com
+Pedro Antonio,Calle 97 # 23-37,Urazan Peña,Bogota D.C.,,Colombia,Bogota D.C.,urazanestetica@yahoo.com
+Santiago,Cra. 53 # 102A-12 (101),Umaña  Diaz,Bogota D.C.,6216680-6180931,Colombia,Bogota D.C.,sanumana@yahoo.com
+Carlos Enrique,Cra. 19A # 14-91,Turcios Baldovino,Sincelejo,,Colombia,Sucre,carloseturciosb@hotmail.com
+Luis Bernardo,Cra. 23 Calle 46 Esquina,Trujillo Lopez,Manizales,8782800,Colombia,Caldas,luisbertrujillo@hotmail.com
+Carlos Enrique,Calle 3 Oeste # 34-96 Corpus Y Rostrum,Triana Lopez,Cali,5560575/76-5184444,Colombia,Valle Del Cauca,carlostriana@doctortriana.com
+Lina Maria,Calle 3 Oeste #34-19 Barrio San Fernando,Triana  Lloreda,Cali,5146434-5560576,Colombia,Valle Del Cauca,colombia@drlinatriana.com
+Gloria Lucy,Villa Vergel Manzana 12 Casa 5,Torres Rivas,Pasto,7235778,Colombia,Nariño,glutor_1008@hotmail.com
+Alberto E.,Calle 12 # 5-125 Cons. 403,Trespalacios Gonzalez,Neiva,720506-729263,Colombia,Huila,aletresgo@gmail.com
+Ramon Jose,Calle 5 # 13-69 Apto. 2B,Viaña Gonzalez,Cartagena,6551540,Colombia,Bolivar,rvianacp@yahoo.con
+Andres Eduardo,Avda. Cra. 9 # 103A-36 Cons. 304 Edif. Latitud,Vence Nuñez,Bogota D.C.,6290900,Colombia,Bogota D.C.,info@andresvence.com
+Emilia Margarita,Cra.8 # 26-18 (201) Edif. Kalaira,Vellojin Anaya,Monteria,4921374,Colombia,Cordoba,evellojin@hotmail.com
+Maria Teresa,Calle 2 S # 46-55 (253)-,Velez Velasquez,Medellin,2687270,Colombia,Antioquia,mariateresavelezv@une.net.co
+Carlos Eduardo,Calle 7 # 39-197 Cons. 1718,Velez Echeverry,Medellin,3151670-3525100,Colombia,Antioquia,plasticavelez@plasticavelez.com
+Juan Carlos,Calle 7 # 39-197 T. Intermedica (1408),Velez Lara,Medellin,2686203-3521523,Colombia,Antioquia,info@velezlara.com
+Federico G.,Calle 7 # 39-197 Cons. 1610 Torre Intermedicas,Velez Bernal,Medellin,2661112,Colombia,Antioquia,fedevelez@hotmail.com
+Hugo Nelson,Calle 123 # 8-30 (302) -,Velasquez,Bogota D.C.,2135125-6296194,Colombia,Bogota D.C.,hugovelasquez@hugovelasquezmd.com
+Maria Idaly,Tranv. 14 # 126-10 Cons. 203,Velasco Herrera,Bogota D.C.,6155559-6155543,Colombia,Bogota D.C.,hidallyvelasco@hotmail.com
+Liliana Del C.,Cra. 40 # 5A-68 Clinica Picasso,Velasco Restrepo,Cali,5534638,Colombia,Valle Del Cauca,livere16@gmail.com
+Ruth Patricia,Cra. 56 # 152-77 Casa 88,Velandia Moreno,Bogota D.C.,6104122-6104386,Colombia,Bogota D.C.,cirplastikpave@yahoo.com
+Eduardo Antonio,Mangac. Cra. 24 # 28-32 Centro Estetica Imagen,Vega Escaño,Cartagena,6604212,Colombia,Bolivar,vescano21@msn.com
+Carlos E.,Diag. 127A # 31-48 (417),Vasquez Camargo,Bogota D.C.,6252012-6252166,Colombia,Bogota D.C.,info@cirugiaplasticacorreccion.com
+Fernando,Diag. 127A # 31-48 (222),Vega Martinez,Bogota D.C.,6157366-2152716,Colombia,Bogota D.C.,drfernandovega@yahoo.com
+Heriberto,Cra. 58 # 70-129 Cons. 303,Vargas Viloria,Barranquilla,3535050,Colombia,Atlantico,hevacl40@hotmail.com
+Carlos Alberto,Cra. 43 A # 5C-45 Centroplastica,Velasco Echeverry,Cali,5136161-5536147,Colombia,Valle Del Cauca,cafecar2010@hotmail.com
+Sandra Liliana,"Carrera 19, Numero 12-50 - Torre 1, Cons 1103---Megacentro Pinares",Vargas Gonzalez,Pereira,0057-6-3216380,Colombia,Risaralda,sandravargas@plasticasandravargas.com
+Carlos Eduardo,Carrera 14 # 127-11 Cons 603.Clinica La Carolina,Torres Fuentes,Bogota D.C.,6147773,Colombia,Bogota D.C.,drtorresplastic@yahoo.com
+Alvaro,Cra. 40 # 5A-68 Clinica Picasso,Torres Eraso,Cali,3747005,Colombia,Valle Del Cauca,info@alvarotorresma.co
+Juan Carlos,Calle 86 # 49C-34,Torres Del Rio,Barranquilla,3785341-3786168,Colombia,Atlantico,jctorresdelrio@yahoo.com
+Luis Guillermo,Calle 32 Ee # 78-52,Tobon Sierra,Medellin,4123433,Colombia,Antioquia,plasticatobon@une.net.co
+Luz Marina,Calle 123 # 8-30,Tobon Luz,Bogota D.C.,2135125,Colombia,Bogota D.C.,luzmarinato2@hotmail.com
+Hernando Alfonso,Cra. 31 # 30- 30,Tenorio Cobo,Palmira,2722931,Colombia,Valle Del Cauca,hernandotenorio@hotmail.com
+Oscar,Kilometro 17 Via Las Palmas. Indiana Center. Consultorio 293,Tirado Ijjasz,Medellin,(57) 310 5176798,Colombia,Antioquia,doctor@oscartiradocirujano.com
+Carlos Andres,Centro Med. Ardila Lulle Mod. 66B Piso 11 (1104),Tellez Gomez,Bucaramanga,6384160,Colombia,Santander,carlostellez4@hotmail.com
+Liliana,Calle 3 Oeste # 34 - 96 Cons 207 Clinica Corpus & Rostrum,Tello Quijano,Cali,5184444 ext 214,Colombia,Valle Del Cauca,cirujanalilianatello@hotmail.com
+Gustavo Adolfo,Cra. 5 # 18-33 Cons. 506,Tellez Cabal,Pereira,3242412-3358453,Colombia,Risaralda,cirugiaplastica@gustavotellezmd.com
+David Eduardo,"Consultorio 1505 Edificio Salud Y Servicios, Ciudad Del Río",Teller Carrero,Medellin,3665365,Colombia,Antioquia,davidtellercarrero@gmail.com
+Carlos Mauricio,Calle 134 # 13-83 (1004) Edif. El Bosque,Tascon Muñoz,Bogota D.C.,6272566,Colombia,Bogota D.C.,cmtascon@imagenysalud.com
+Luis Octavio,Cra. 16 # 82-74 (705),Tamayo Manrique,Bogota D.C.,6217231-6217259,Colombia,Bogota D.C.,info@luisoctaviotamayo.com
+Maria Clara,Cra. 16 # 84A-09 (714),Syro,Bogota D.C.,6217531-6217510,Colombia,Bogota D.C.,mcsyro@yahoo.com
+Luis Dairon,Cra. 50D # 77N Sur-81 Casa 9 Mar Del Plata,Suarez Hoyos,Medellin,3381878,Colombia,Antioquia,ldsuarezh@gmail.com
+Rodrigo Focion,Cra. 13 A # 127-55,Suarez Alba,Bogota D.C.,2533822,Colombia,Bogota D.C.,berthacsa@yahoo.com
+Julian,Carrera 14 No. 127-11. Consultorio 503 Clinica La Carolina,Suarez Gomez,Bogota D.C.,"(+571) 6581605, 6581616",Colombia,Bogota D.C.,juliansg.md@gmail.com
+Alida,Tranv. 14 # 126-11 (506),Santamaria  Ramirez,Bogota D.C.,6581616,Colombia,Bogota D.C.,alida_santamaria@yahoo.com
+Lazaro Nestor,Cra. 38A # 5A-100 Torre A. Cons.905,Sanchez Varon,Cali,5586776,Colombia,Valle Del Cauca,Insanchezw@hotmail.com
+Nora Beatriz,Cra. 38A # 5A-100 Torre A (904),Sanchez Cifuentes,Cali,5584322-6824145,Colombia,Valle Del Cauca,nobesa@hotmail.com
+Alejandro,Calle 18 # 35-69 Cons. 308 Centro Emp.Palm Avenue,Sanchez Saldarriaga,Medellin,2684157,Colombia,Antioquia,alejoss@mac.com
+Xavier,Cra. 40 # 5B-100 (203) Barrio Tequendama,Sanchez Alvarez,Cali,5534529,Colombia,Valle Del Cauca,xaviersanchezmd@gmail.com
+Freddy,Cra. 7 # 119-14 Cons. 310,Sanabria Scharf,Bogota D.C.,2153666-6373212,Colombia,Bogota D.C.,freddysanabria@hotmail.com
+Mauricio,Cra. 40 # 5B-100 (208),Sanabria Victor,Cali,5546122-5536460,Colombia,Valle Del Cauca,sanstorino@hotmail.com
+Virgilio,Cra.27 # 135-81 Apto. 102,Salgado Navarro,Bogota D.C.,2152569,Colombia,Bogota D.C.,visalgado@yahoo.com
+Walberto,Calle 119 # 11D-06,Salgado Bustamante,Bogota D.C.,2139564-2136058,Colombia,Bogota D.C.,wsalgado3@hotmail.com
+Juan Fernando,Calle 78B # 69-240 (310),Saldarriaga Llano,Medellin,4459310-3216867,Colombia,Antioquia,merce_2905@hotmail.com
+Juan Fernando,Cra. 25B # 16A-Sur-211,Saldarriaga Ochoa,Medellin,3171626-2687037,Colombia,Antioquia,jfsaldarriaga@hotmail.com
+Marco Antonio,Calle 134 # 7-83 (262) Edificio Altos Del Bosque,Salazar Trujillo,Bogota D.C.,2586368,Colombia,Bogota D.C.,drsalazar@renovarte.co
+Dario,Calle 5D # 38A-35 Torre 2 Cons. 702,Salazar Salazar,Cali,5556239,Colombia,Valle Del Cauca,dasalazarsalazar@hotmail.com
+Eduardo,Cra. 38A # 5A-56,Salazar Hurtado,Cali,5583803-6832805,Colombia,Valle Del Cauca,laserplastica@gmail.com
+Fedor Luis,Cra. 2 A Oeste # 13-104 Barrio Ssnta Teresita,Salazar Rosero,Cali,8939000,Colombia,Valle Del Cauca,felusar@yahoo.com
+Ruth Miryam,Calle 113 # 7-45 (510) Torre B Edif. Teleport,Salamanca Rodriguez,Bogota D.C.,6211165,Colombia,Bogota D.C.,cirugiaplasticaestetica@yahoo.com
+Hugo Cesar,Cra. 46 # 9C-85 Cons. 503,Sacristan Ceballos,Cali,5134894,Colombia,Valle Del Cauca,drhugoplastic@hotmail.com
+Rodrigo Focion,Calle 90 No. 19 A - 49  Cons 502,Soto Pareja,Bogota D.C.,5303878,Colombia,Bogota D.C.,rodrigosoto@rodrigosoto.com
+Manuel Augusto,Cra. 7 A # 121-33,Solano Trujillo,Bogota D.C.,2145885-2146199,Colombia,Bogota D.C.,manuel.solano@ama.com
+Eduardo,Cra. 16 # 84A-09 (310),Solano Gutierrez,Bogota D.C.,6217346,Colombia,Bogota D.C.,esgmd@yahoo.com
+Samira,Calle 130A # 7B-20 Ap.-503 Edif. Lauri,Solano Arevalo,Bogota D.C.,6150714,Colombia,Bogota D.C.,samys60@hotmail.com
+Sandra Ximena,Cra. 18A # 151-61 Apto. 401,Silva Montoya,Bogota D.C.,5222137,Colombia,Bogota D.C.,silva_sandra02@hotmail.com
+Juan Esteban,Cra. 25 A # 1-31 (1411) Parque Emp. El Tesoro,Sierra Mejia,Medellin,3216111,Colombia,Antioquia,juanestebansierra@hotmail.com
+Ruben Dario,Calle 93B # 17-12 Cons.101,Sierra Bernal,Bogota D.C.,6182581-6185607,Colombia,Bogota D.C.,contacto.aisthesis@gmail.com
+Manuel,Calle 79 # 18-34 (501),Sevillano Delgado,Bogota D.C.,2578402-6912546,Colombia,Bogota D.C.,sevillanodmanuel@yahoo.com
+Mauricio,Cra. 7 Bis A # 123-06,Serrano,Bogota D.C.,2135782,Colombia,Bogota D.C.,rafaelmauricioserrano@hotmail.com
+Guisella,Avenida Calle 127  No. 21-60 (422),Serrano De Santaella,Bogota D.C.,6158277  6252166,Colombia,Bogota D.C.,dra.gserrano@gmail.com
+Natalia,Cra. 17 # 106-16,Serra Rey Natalia,Bogota D.C.,6014858,Colombia,Bogota D.C.,natserra@hotmail.com
+Carlos Alberto,Cra. 6 # 61-04 Piso 1,Seba Del Castillo,Monteria,7852522,Colombia,Cordoba,sebacarlos62@hotmail.com
+Diego Jose,Avda 3N # 35N-10 Cl,Satizabal Garcia,Cali,6611101,Colombia,Valle Del Cauca,satizabal@emcali.net.co
+Jorge Luis,Avda. 9 # 116-20 Cons. 513,Scarpetta Uribe,Bogota D.C.,6195272,Colombia,Bogota D.C.,jscarpetta@surgiplastic.com
+Raul,Cra 9 # 117-20 (607),Sastre Cifuentes,Bogota D.C.,2154230,Colombia,Bogota D.C.,raul_sastre@yahoo.com
+Daniel Fernando,Diag 127 A # 25 - 44 Int. 10 -,Sastoque Parisier,Bogota D.C.,2586614-2586613,Colombia,Bogota D.C.,dansasp@hotmail.com
+Bibiana Andrea,Cra. 35 # 4C-05,Sarasti Silva,Cali,5144188,Colombia,Valle Del Cauca,bibianasarasti@hotmail.com
+Ivan,Calle 93 # 15-59 (106),Santos Gutierrez,Bogota D.C.,6236083,Colombia,Bogota D.C.,ia_santos@yahoo.com
+Roger Cristian,Calle 26A # 43-35 Venecia 2A. Etapa,Ruiz Moreno,Sincelejo,2810160-2800404,Colombia,Sucre,rogercrm@hotmail.com
+Silvia Bibiana,Calle 80 # 10-43,Ruiz Lizarazo,Bogota D.C.,2186756-2714364,Colombia,Bogota D.C.,bibiana_35@hotmail.com
+Fernando,Calle 125 # 29-70 Cons. 208,Ruiz Gaitan Fernando,Bogota D.C.,2147784,Colombia,Bogota D.C.,fernandoruizgaitan@hotmail.com
+Santiago,Carrera 19C No. 90 - 14 Consultorio 707,Ruiz Gnecco Santiago,Bogota D.C.,6105141,Colombia,Bogota D.C.,santiagoruizg@gmail.com
+Alvaro De Jesus,Calle 70 Sur # 38-80T. Ruise,Ruiz Cuervo,202,,Antioquia,Medellin,aldejruiz@yahoo.com
+Elizabeth,Cra. 146 # 19-81 Casa 15,Ruiz Camargo,Cali,5557637,Colombia,Valle Del Cauca,elizaruizcirujana@hotmail.com
+Nemecio Ivan,Calle 76 # 42-18 Local 4 Y 5,Rubio Mydor,Barranquilla,3609799,Colombia,Atlantico,irubio40@hotmail.com
+Adolfo,Cra. 16 # 84A-09 (620),Rosales Maldonado,Bogota D.C.,6217452-6217492-8064232,Colombia,Bogota D.C.,armaldonado63@cable.net.co
+Jaime Alejandro,Calle 134 #13-83 El Bosque,Rubio Cely,Bogota D.C.,5200094-6273611,Colombia,Bogota D.C.,jalruce@yahoo.com
+Fernando A.,Cra. 10 # 65-35 (305)-,Romero Flechas,Bogota D.C.,3490260-3490261,Colombia,Bogota D.C.,srs@etb.net.co
+Alvaro Gilberto,Calle 1A Sur # 43A-49  Edif. Colmena (206),Roldan Perez,Medellin,3110555-3110322,Colombia,Antioquia,aroldanp@une.net.co
+Damaris,Calle 10 # 8-70 Apto. 402 B. Novalito,Romero Chamorro,Valledupar,5733770-300/7891973,Colombia,Cesar,dra.damarisromero@gmail.com
+Jorge,Cra. 12 # 93-78 (201),Rojas Suarez,Bogota D.C.,6232282-6232283,Colombia,Bogota D.C.,jorosua@hotmail.com
+Jaime Orlando,Calle 77 # 16-20 Cons. 303,Rojas Jaimes,Bogota D.C.,2575690-311/5325621,Colombia,Bogota D.C.,jaimeorojas@hotmail.com
+Jimeno,Avda 2 Norte # 24-157 Cl. Ntra Se,Rojas Orozco,Cali,5130643,Colombia,Valle Del Cauca,jimenoroj@yahoo.com
+Maria De Los Angeles,Calle 25 # 2N-57 (507) Cl. Ntra. Sra. De Los Remedios,Rojas Irurita,Cali,6644018-6610470,Colombia,Valle Del Cauca,mrojasiruritall@hotmail.com
+Juan Miguel,Calle 22 # 14-70 Cons. 32,Rojas Gnecco,Santa Marta,4319594-4215280,Colombia,Magdalena,juanrojasgnecco@hotmail.com
+Jose Ernesto,Cra. 22 # 16A-33 Centro Med. Sta. Mar,Rojas Acevedo,Sincelejo,2821573,Colombia,Sucre,dr.rojasacevedo@hotmail.com
+Hugo Felix,Transv. 23 # 95-46,Rodriguez Velandia,Bogota D.C.,2362844,Colombia,Bogota D.C.,hugorodvel@yahoo.com
+Jose Guillermo,Cra. 41 # 17A-95 Clinica Spa Barrio Dorado,Rodriguez Rosas,Pasto,7317070-7317171,Colombia,Nariño,joseguillermo1970@hotmail.com
+Claudia Catalina,Calle 5 # 15-15 Barrio José María Cabal,Rodriguez Rincon,Buga,2366542,Colombia,Valle Del Cauca,dracatalinarodriguez@hotmail.com
+Claudia Margarita,Calle 11 # 1-27  Apto. 304 B/Grande,Rodriguez Nuñez,Cartagena,6655880-6606007,Colombia,Bolivar,cmrodriguezn@yahoo.com.mx
+Hermann,Calle 72 # 27-68 Torre Ii Apto. B11 Conj. Horizonte,Rodriguez Hoffmann,Manizales, 887 69 82.,Colombia,Caldas,hermannrh@yahoo.com
+Freddy,Cra. 51B # 94-334 Cons. 308,Rodriguez Garcia,Barranquilla,3785327,Colombia,Atlantico,freddytz@hotmail.com
+Andrea Marcela,Tranv. 55 # 103B-26 Int. 2,Rodriguez Florez,Bogota D.C.,6222228,Colombia,Bogota D.C.,merce8130@yahoo.com
+Jairo Alfonso,Calle 15 # 11A-57,Roca Baute,Valledupar,5744132,Colombia,Cesar,centrodecirugiaplasticajroca@yahoo.com
+Jorge Enrique,Cra. 11 # 94-02 Of. 302,Rodriguez Charry,Bogota D.C.,6182097,Colombia,Bogota D.C.,rodriguez.jorgeenrique@gmail.com
+Pedro Felipe,Cra. 16 # 82-95 (500),Roa Vesga,Bogota D.C.,2362135/2368785/6216265,Colombia,Bogota D.C.,pfroa@hotmail.com
+Carlos Arturo,Diag. 127A # 29-88 (613),Rivera Torres,Bogota D.C.,6270093-89-45,Colombia,Bogota D.C.,c_rivera68@yahoo.com
+Enzo Jose,Calle 81 # 7-81 Apto. 102,Rivera Citarella,Bogota D.C.,2555479,Colombia,Bogota D.C.,enzo@enzorivera.com
+Victor Raul,Centro De Especialistas El Bosque,Rivera Garnica,Floridablanca,6799029,Colombia,Santander,plasticosanta@yahoo.com
+Carlos Alberto,Calle 4 #35A08 San Fernando,Rios Garcia,Cali,,Colombia,Valle Del Cauca,rios@santuario.com
+Milton Horacio,Cra. 68A # 102-32,Rincon Carranza,Bogota D.C.,4813667-2157881,Colombia,Bogota D.C.,miltrin@hotmail.com
+Victor Henry,Calle 9C # 50-25 Cons. 1005 Cl,Reyes Vallejo,Cali,5510580,Colombia,Valle Del Cauca,vhrv99@hotmail.com
+Luis Fernando,Calle 51 # 38-53/67,Reyes Mesa,Bucaramanga,6477414,Colombia,Santander,reyesestetica@gmail.com
+Francisco Javier,Calle 22 # 2-21 Cons. No. 1,Reyes Montero,Santa Marta,4236271,Colombia,Magdalena,drfranciscojreyes@yahoo.com
+Camilo Orlando,"Ecoparque Empresarial, Oficina 633 Torre 2, Anillo Vial Km2, Via Giron",Reyes Carrascal,Bucaramanga,3175102220,Colombia,Santander,corc80@hotmail.com
+Miguel,Calle 49 # 27A-65 (506) Edif. Kbc,Reyes Guerrero,Bucaramanga,6193286,Colombia,Santander,miguelreyescirplastico@hotmail.com
+Lina Maria,Calle 7 # 39-197 (908),Restrepo Hernandez,Medellin,3212853,Colombia,Antioquia,linamariarestrepo.md@gmail.com
+Rodolfo,Avda. 19 # 102-53 (107) Cl La Sabana,Reyes Abisambra,Bogota D.C.,6221386,Colombia,Bogota D.C.,rodoreyesabi@yahoo.com
+Monica Elena,Calle 5 # 38-10 (602),Restrepo Giraldo,Cali,5582216-5582390,Colombia,Valle Del Cauca,drmonicarestrepo@hotmail.com
+Victor Raul,Cra. 34 # 11B-70  Con.402Edif. San Sebastian De Las Lomas,Restrepo Cano,Medellin,3127936-2687166,Colombia,Antioquia,informaciones@victorrestrepo.com
+Carlos Augusto,Cra. 100 # 5-169 Centro Cial Unicentro  Oasis (511D),Recio Gonzalez,Cali,3739055,Colombia,Valle Del Cauca,consultas@doctorcarlosrecio.com
+Jose Lisardo,Cl 25 No 1G-89. Barrio Reinaldo Matiz,Ramon,Neiva,8751627,Colombia,Huila, jolira01@hotmail.com
+Jorge Hugo,Cra. 25B # 16A Sur-211 Clinica Bioforma,Ramirez Zuluaga,Medellin,PBX 5208580.     3171626 ext. 109,Colombia,Antioquia,cirujano@jorgeramirez.com
+Federico,Carrera 25A No. 1Asur - 45 Parque Comercial El Tesoro - Torre M,Ramirez Zuluaga,Medellin,4445653,Colombia,Antioquia,ferazucir@hotmail.com
+Anibal,Cra. 38A # 5A-100 Torre A (316),Ramirez Trujillo,Cali,5584249-5584578,Colombia,Valle Del Cauca,plastico@anibalramireztrujillo.com
+Monica Maria,Calle 126 # 7C-51,Ramirez Ardila,Bogota D.C.,2135967,Colombia,Bogota D.C.,moniplastic@hotmail.com
+Carlos E.,Av. Gonzalez Valencia # 55B-10 (402),Ramirez Ribero,Bucaramanga,6470053,Colombia,Santander,ceramirezr1@yahoo.com
+Edison,Cra. 26 # 50-12 Inst. Med. Integrado,Quintero Gonzalez,Manizales,8857591,Colombia,Caldas,edisonquinterog@gmail.com
+Gisela Del Pilar,Centro De Medico Jerico Avda. 1 # 15-43 Consul 701-702),Puentes Buendia,Cucuta,5829239,Colombia,Norte De Santander,giselabuendia@hotmai.com
+Camilo Andres,Calle 90 # 13A-20 Of. 705,Prieto Valderrama,Bogota D.C.,6124817,Colombia,Bogota D.C.,camiloandresprieto@yahoo.com
+Yobanka,Clinica Farallones Calle 9 C # 50-25 (504 - 505),Prado Martinez,Cali,(572) 4878082,Colombia,Valle Del Cauca,yobankaprado@gmail.com
+Jose Rolando,Cra. 9 # 117-20 (715) -,Prada Madrid,Bogota D.C.,2150251-6204694,Colombia,Bogota D.C.,rprada@ama.com
+Nicolas,Cra. 6A # 60-19 Cons. 201-Surgimedica,Prada Garay,Ibague,2740033,Colombia,Tolima,npradagaray@yahoo.com
+Jorge Guillermo,Cra. 46 # 104B-24,Poveda Restrepo,Bogota D.C.,2562809,Colombia,Bogota D.C.,jorgepoveda1@yahoo.com
+Carolina,Calle 5 Sur # 35-50,Posso Zapata,Medellin,,Colombia,Antioquia,carolina.posso@gmail.com
+Luis Carlos,Calle 93 # 12-54 (309),Posada Peñaloza,Bogota D.C.,6220085-4815326,Colombia,Bogota D.C.,caipos@etb.net.co
+Rafael Alberto,Calle 54 # 33-45 Cons. 603,Posada Paez,Bucaramanga,6479248,Colombia,Santander,rafael.posada@uol.com.br
+Rafael,Cra. 15 # 84-24 (417),Polo Vargas,Bogota D.C.,6163355-6358444,Colombia,Bogota D.C.,rafaelplomd@gmail.com
+Fernando,Cra. 23 # 124-70 Cons. 201-202,Plaza Ruiz,Bogota D.C.,6129585-6203019,Colombia,Bogota D.C.,ciruplasticplaza@hotmail.com
+Clara,Calle 127 # 36-45,Pinzon Navarrete,Bogota D.C.,6334520,Colombia,Bogota D.C.,cyaznida@yahoo.com
+Luisa Margarita,Calle 127 # 13A-32 Piso 4.,Plata Cuadros,Bogota D.C.,4836368  2169904,Colombia,Bogota D.C.,luisaplata@yahoo.com
+Sandra Liliana,Cra. 11 # 93A-53 Cons. 402,Pinilla Mikan,Bogota D.C.,7021292-6183502,Colombia,Bogota D.C.,cirugiaplasticaintegral@gmail.com
+Freddy Alberto,Cra.22 # 100-24 Sta. Barbara Surgical Center,Pinto  Borda,Bogota D.C.,2571399-2960507,Colombia,Bogota D.C.,pintofreddy@hotmail.com
+Luis Antonio,Av. Calle 127 # 20-78 (321),Pinedo,Bogota D.C.,6484483/2594506,Colombia,Bogota D.C.,doctor@luispinedo.com
+Mauricio,Calle 64A # 21-50,Pineda Mauricio,Manizales,8894850,Colombia,Caldas,consulta@drmauriciopineda.com
+Alvaro Andres,Cra. 12 # 98-64 (405),Picon Cepeda,Bogota D.C.,2360663-2579687,Colombia,Bogota D.C.,andrespicon@hotmail.com
+Gustavo Adolfo,Cra. 25A # 1-31 Cons.916 Parque Emp. El Tesoro,Pertuz Moreno,Medellin,4441405,Colombia,Antioquia,pertuzcxplastica@une.net.co
+Carlos Arturo,Calle 98 # 42G-105 T-4 (703),Pernett Torres,Barranquilla,3775862,Colombia,Atlantico,carlospernett@hotmail.com
+Rafael,Cra. 19C # 90-14 (307),Perez,Bogota D.C.,6103260-62-2186647,Colombia,Bogota D.C.,drrafaelperez@hotmail.com
+Andres,Cra. 7B # 127A-14,Perez Nieto,Bogota D.C.,63320662/584220,Colombia,Bogota D.C.,drandresperez@yahoo.com
+Gildardo,Calle 5C # 43-10  (207),Perez Medina,Cali,5532407-5537946/5536201,Colombia,Valle Del Cauca,gildardoperezmd@hotmail.com
+Claudia Cecilia,Avda. 1 # 17-93 Cons. 301- Centro Med. Norte,Perez Chacon,Cucuta,5719337-717286,Colombia,Norte De Santander,cperezch03@gmail.com
+Beatriz Stella,Cra. 13A # 102-86 Cl .Corpolaser,Perez De Garavito,Bogota D.C.,6122571-6122605,Colombia,Bogota D.C.,corpolaser98@hotmail.com
+Ramiro Enrique,Calle 7 # 23-52,Perdomo,Neiva,727770,Colombia,Huila,raenperdomo61@hotmail.com
+Enrique,Calle 91 # 19C-62 Cons. 503-504.505,Perea Jorge,Bogota D.C.,6912830-6912827,Colombia,Bogota D.C.,jorgeenriqueperea@yahoo.com
+Jairo Augusto,Calle 53 # 34-17 Cl,Peralta Vargas,Bucaramanga,6571774,Colombia,Santander,pjairo_augusto@hotmail.com
+Marcel,Cra. 3 Bis # 15An-12 Cons. 110,Perafan Simmond,Popayan,8200033-8201111,Colombia,Cauca,mapesim@hotmail.com
+Ricardo Gustavo,Cara 5C # 43-10 (203,Peña Paez,Cali,5532407/5546978,Colombia,Valle Del Cauca,drpenapaez@hotmail.com
+Jorge Enrique,Calle. 109 # 18C-17 (312B),Peñuela Velez,Bogota D.C.,6042515-5234616,Colombia,Bogota D.C.,pe?uela70@hotmail.com
+Fernando,Cra. 16 # 84A-09-,Peña Gonzalez,Bogota D.C.,6217271-6217281,Colombia,Bogota D.C.,fpplastica@hotmail.com
+Ricardo,Diag. 127A # 29-88 (708),Peña Cortes,Bogota D.C.,6148119-6140612,Colombia,Bogota D.C.,ricardopena71@hotmail.com
+Julio Enrique,Calle 82 No 55-55 Of 305,Peña Buelvas,Barranquilla,3781331,Colombia,Atlantico,drjuliopena@yahoo.com
+Jose Luis,Avda. Calle 127 # 19A-28 Cons. 607,Peña Almario,Bogota D.C.,6497612-6497611,Colombia,Bogota D.C.,jlpena2@hotmail.com
+Maria Sofia,Cra. 13 No. 49-40 Cons. 403,Pedraza Forero,Bogota D.C.,2320406-3436600ext1422,Colombia,Bogota D.C.,pedrazamd@cable.net.com
+Harold Oswaldo,Cra. 47Sur _# 8C-94 Cl. Oftamologica De Cali,Paz Matabanchoy,Cali,5575758,Colombia,Valle Del Cauca,drharoldpaz@yahoo.com
+Alfredo Salvador,Carrera 43A # 7-50A Of 906,Patron Gomez,Medellin,2681181,Colombia,Antioquia,alfredopatrongomez@gmail.com
+Luis,Autopista Norte # 118-86,Pavajeau Muñoz,Bogota D.C.,6473777,Colombia,Bogota D.C.,pavajeauluis@yahoo.com
+Marcela Patricia,Cra. 46 # 9C-85 (512),Patiño Mejia,Cali,5518233-5572461,Colombia,Valle Del Cauca,marcelaplastic.surgery@gmail.com
+Jairo Alberto,Calle 2 Sur # 46-55 Cl. Las Vegas Fase I (535),Patarroyo Serrano,Medellin,3124169-3125362,Colombia,Antioquia,patarroyos@gmail.com
+Nena Nubia,Cra. 18 # 88-17 Cons. 103,Pareja Robles,Bogota D.C.,6164628-6164653,Colombia,Bogota D.C.,nenapareja77@hotmail.com
+Alfredo,Calle 5B3 # 38-44 Cons. 210,Paredes Jimenez,Cali,5584580-5584211,Colombia,Valle Del Cauca,aparedesj@yahoo.com
+Sandra Jackeline,Calle 123 # 8-30 Cons. 502 (Sabamec),Pardo Velasquez,Bogota D.C.,2135125,Colombia,Bogota D.C.,sandrap72@yahoo.com
+Wolfgang,Avda. 1 # 17-93 (307) Centro Med. Norte,Parada Vivas,Cucuta,717286/719337,Colombia,Norte De Santander,wolpavi14@hotmail.com
+Tatiana,Calle 93B # 17-12/26 Cons. 101,Palomino Consuegra,Bogota D.C.,6185607-6182581,Colombia,Bogota D.C.,tatiana_palomino@yahoo.com
+Patricia,Cra. 43 A # 5B-18,Mosquera Ortiz,Cali,5516972,Colombia,Valle Del Cauca,doctorapatriciamosquera@hotmail.com
+Jose Enrique,Cra. 43A # 9Sur-91  Con.508,Palacio Velez,Medellin,3136504/3526987,Colombia,Antioquia,josepal@une.net.co
+Rodney,Calle 84 # 53-46 2O. Piso,Morillo Castillo,Barranquilla,3781942-3775882,Colombia,Atlantico,rodney_morillo@hotmail.com
+Raul,Cra. 9 # 117-20 (736),Moreno Solano Raul,Bogota D.C.,6129071-2152300-736,Colombia,Bogota D.C.,raulmoren@tutopia.com
+Antonio Jose,Cra. 40 # 5B-100,Moreno Macias,Cali,5536460,Colombia,Valle Del Cauca,ajmoreno2009@hotmail.com
+Hugo Armando,Clinica Los Andes-,Moreno Gonzalez,Tunja,7442736,Colombia,Boyaca,hugoomg74@hotmail.com
+Jaime Alberto,Cl 7 No 39-197  Torre Intermedica Piso 13 Con. 1302,Morales Rave,Medellin,3263042,Colombia,Antioquia,jamoralesmd@yahoo.com
+Clara Catalina,Cra 72B # 120-45 Apto. 501 Solitude,Morales Ramirez,Bogota D.C.,,Colombia,Bogota D.C.,catammm@yahoo.com
+Guillermo,Cra. 3 # 6-165,Montes Montes,Cartagena,6652857,Colombia,Bolivar,gmontes.montes@gmail.com
+Luis G.,Calle 6 # 43C.-8 Of. 406,Morales Betancourt,Medellin,3117705,Colombia,Antioquia,luismorales@une.net.co
+Ezequiel,Cra. 4D # 36-27 Barrio Cadiz,Montealegre Varon,Ibague,2642535,Colombia,Tolima,eztetic@hotmail.com
+Giovanny,Avda. 19 # 114-87,Montealegre,Bogota D.C.,6190311-5587964,Colombia,Bogota D.C.,giosurg@hotmail.com
+Gabriel E.,Clinica Cartagena Del Mar,Monterrosa Robinson,Cartagena,6666229-6620841,Colombia,Bolivar,gabrielplastica@hotmail.com
+Alejandro,Calle 2Sur# 46-55 Fase 1 Cons.318 Cl. Las Vegas,Monsalve Trespalacios,Medellin,3112099,Colombia,Antioquia,monsalvetrespalacios@hotmail.com
+Juan Carlos,Av. 9 No. 108A-10 Esquina Santa Ana Occidental,Monroy Mejia,Bogota D.C.,(57) 6206011,Colombia,Bogota D.C.,doctormonroy@ciruplastia.com
+Jaime Andres,Calle 7 # 39-197 (1808),Molina Vasquez,Medellin,3524864 fax.3260170,Colombia,Antioquia,jamolinav@une.net.co
+Luz Angela,Calle 1 Sur # 43A-49 Inst. De C.Plastica El Poblado,Molina Molina,Medellin,3110555,Colombia,Antioquia,moloina.luza@gmail.com
+Angela Leonor,Cra.  16 # 82-95 Con 505,Mojica Mojica,Bogota D.C.,2361344,Colombia,Bogota D.C.,radioplastica@hotmail.com
+Luis Ernesto,Calle 55B # 29-06 Antigua Cl,Paez Capacho,Bucaramanga,6436665,Colombia,Santander,lucho.paez@hotmail.com
+Hernando,Cra. 56 # 82-42 Apto. 202 St. Laurens,Pacheco Acosta,Barranquilla,3736474,Colombia,Atlantico,pachecoplastic@hotmail.com
+Ricardo,Calle 9 # 20-60 Pinares M,Pacheco Soler,Pereira,3116199,Colombia,Risaralda,ripacheco@mac.com
+Gabriel,Cra. 19A # 82-52,Osorno Muñoz,Bogota D.C.,2362785 6215670,Colombia,Bogota D.C.,osorno@cable.net.co
+Edison Raul,Cra. 25B # 16A-Sur-211,Osorio Londoño,Medellin,4483052,Colombia,Antioquia,edraol@hotmail.com
+Juan Carlos,Calle 98 # 9A-46 Piso 7,Ortiz Paez,Bogota D.C.,6362776,Colombia,Bogota D.C.,jcaortizpaez@hotmail.com
+Alejandra,Cra. 23 # 124-70 Cons. 601,Ortega Canaval,Bogota D.C.,6190487,Colombia,Bogota D.C.,alejndraortega.md@gmail.com
+Andres Miguel,"Carrera 19A #82-85, Cons.620. Ed. Cmc",Ortegon Pulido,Bogota D.C.,7953131 ext.6200,Colombia,Bogota D.C.,andres_ortegon@hotmail.com
+Diego Ivan,Megacentro Pinares T2 (802),Orozco Jaramillo,Pereira,,Colombia,Risaralda,diegotw2909@yhoo.com
+Gloria,Cra. 19C # 86-36,Ordoñez Noriega,Bogota D.C.,6109530,Colombia,Bogota D.C.,gloriaordonezn@gmail.com
+Edison Manuel,Calle 80 # 47-43 (2A),Orozco Mejia,Barranquilla,3784074-3488873,Colombia,Atlantico,emom67@yahoo.com
+Einar Fernando,Cra. 16A # 82-46 Cons.406,Oquendo Villacres,Bogota D.C.,2960520-2960519,Colombia,Bogota D.C.,einaroq@hotmail.com
+Luis Ernesto,Calle 43 # 4-26 Centro Med. Javeriana (401,Oliveros Mendez,Ibague,2642810,Colombia,Tolima,plasticaoliveros@gmail.com
+Juan Carlos,Calle 95 # 23-61 Consultorio 508 - Clinica Los Nogales,Olaya Osorio,Bogota D.C.,5937000 ext. 1514,Colombia,Cundinamarca,jcolaya@hotmail.com
+Camilo,"Dg 115 A # 70 C - 75, Casa 7, Cons 2",Nossa Jaramillo,Bogota D.C.,"2533773, 5938210 EXT 2299",Colombia,Bogota D.C.,drcamilonossa@gmail.com
+Harold Eduardo,Calle 21 A # 5-64 Barrio Sevilla,Olaya Martinez,Neiva,8755457,Colombia,Huila,heom19@gmail.com
+Juan Camilo,Avda. 9 # 117-20 (706),Noreña Atehortua,Bogota D.C.,2137497-2152300/1706,Colombia,Bogota D.C.,jcnorena2@yahoo.com
+Rodrigo,Calle 78 Norte # 17-50 Bloque C Apto 102,Noguera Ramos,Popayan,246347,Colombia,Cauca,rinoguera2010@hotmail.com
+Luis Eduardo,Calle 119 # 7-14 Módulo 412,Nieto Ramirez,Bogota D.C.,2148904  6201505,Colombia,Bogota D.C.,lenietor@gmail.com
+Claudia Jimena,Cra 43 # 26C-71 Barrio El Buque Aira Spa.,Niño Gomez,Villavicencio,6630226,Colombia,Meta,ximenani?og@hotmail.com
+Claudia Patricia,Calle 123 # 7-60 Cons. 303,Nieto Gonzalez,Bogota D.C.,6296194-2138342,Colombia,Bogota D.C.,cnietog1@gmail.com
+Neira,Cra. 16 # 84A-09 (416),Neira,Bogota D.C.,6217414-25,Colombia,Bogota D.C.,andmane@hotmail.com
+Rodrigo,Fuera Del Pais,Neira Galvis,Cali,,Colombia,Valle Del Cauca,neira-rod@emcali.net.co
+Juliana,Cra. 40 # 5B-100 Cons. 205,Navia Aluma,Cali,5240091,Colombia,Valle Del Cauca,julinavia19@hotmail.com
+Samih A.,Cra. 30 # 1-850 Cons. 725 Csorredor Universitario Clínica Porto Azul,Nassif Elkaraan,Barranquilla,3672626,Colombia,Atlantico,samihnassif@gmail.com
+Jairo Fernando,Calle 6 # 10-19,Navarro,Neiva,8715440-8716239,Colombia,Huila,contactos@jaironavarro.com
+Catalina,Avda 9 # 103A-36 Cons. 501A,Muñoz Morales,Bogota D.C.,6105208-6917506,Colombia,Bogota D.C.,catammm@yahoo.com
+William Libardo,Calle 5D # 38 A 35 Consultorio 816 Centro Medico Vida - Barrio Tequendama,Murillo Moreno,Cali,5545656 / 5545603,Colombia,Valle Del Cauca,williamurillo@gmail.com
+Daniel,Cra. 38A # 5A-49 Interface,Muñoz Diaz,Cali,3798095,Colombia,Valle Del Cauca,damudi@yahoo.com
+Jaime Alberto,Cl 34 No 76-37,Muñoz Ahmed,Medellin,2503041- 3417070-4111186,Colombia,Antioquia,jamunoza@hotmail.com
+Rodrigo,Calle 2Sur # 46-55 Fase I (320)Cl. Las Vegas,Munera Velez,Medellin,2668098-3123910,Colombia,Antioquia,rodrigomunera@gmail.com
+Tomas Jaime,Calle 137 # 19-42,Munera Marquez,Bogota D.C.,5206533,Colombia,Bogota D.C.,tomas.munera@gmail.com
+Jorge Arturo,Cra. 19 Bis No. 12-58 / Megacentro Pinares 6To Piso,Miranda Rosero,Pereira,3160422 - 3160424 - 3160426,Colombia,Risaralda,jarturomiranda@etp.net.co
+Luis Felipe,Calle 121 # 15A-42,Milanes Reyes,Bogota D.C.,,Colombia,Bogota D.C.,info@felipemilanes.com
+Rafael Alberto,Cra. 14 # 127-11 (302) La Carolina,Mestre Moreno,Bogota D.C.,3450456,Colombia,Bogota D.C.,rafaelmestre@yahoo.com
+Miguel Angel,Bogota,Rivera Mendoza,Bogota D.C.,,Colombia,Cundinamarca,miguelplastic@gmail.com
+Felipe,Calle 7 # 39-290 Cl. Medellin Del Poblado (803),Mesa Betancourt,Medellin,2666171,Colombia,Antioquia,felipemesab@une.net.co
+Carlos Daniel,Cra. 45 # 84-165,Merlano Niebles,Barranquilla,3786066-3786215,Colombia,Atlantico,camer13@hotmail.com
+Manuel Francisco,Calle 7 # 39-197 Cons. 1818 Cl. Interm,Mercado Jimenez,Medellin,3119573/3123127,Colombia,Antioquia,manuelmercadoj@hotmail.com
+Santiago,Cra. 16 # 84A-09 (310),Merchan Cadavid,Bogota D.C.,6217406-2167964,Colombia,Bogota D.C.,smerchanc@gmail.com
+Giovanny,Cra. 16 # 84A-09 Cons. 707,Mera Cruz,Bogota D.C.,6217717-6217707,Colombia,Bogota D.C.,giovamera@hotmail.com
+Ivan Moises,Calle 80 # 47-43,Melo Villalba,Barranquilla,3561623-3781331,Colombia,Atlantico,drivanmelo02@yahoo.com
+Genny Liliana,Calle 49 # 27A-65 (506) Edif. Kbc,Melendez Florez,Bucaramanga,6573560,Colombia,Santander,dramelendezplastica@yahoo.com
+Luz Elena,Cra. 20 # 133-16,Mejia Renteria,Bogota D.C.,2587067-2538343,Colombia,Bogota D.C.,luzhelenamejia@yahoo.com
+Fabio Andres,Calle 98# 9A -46 Cons 502,Mejia Ortiz,Bogota D.C.,6104819/6104814,Colombia,Bogota D.C.,doctormejia41@me.com
+Jaime,Calle 4 Sur # 43Aa -26 (201),Mejia Martinez,Medellin,2681199/3116939,Colombia,Antioquia,jaimejiamtz@une.net.co
+Juan Diego,Calle 7 # 39-107  Consultorio 1203,Mejia Jimenez,Medellin,(574) 312 7309,Colombia,Antioquia,contacto@juandiegomejia.com
+Nestor,Cra. 9 # 25-25 Cons. 509,Mejia Estrada,Pereira,3242339-3242340,Colombia,Risaralda,nemeji@yahoo.com
+Jorge Alirio,Calle 7 Sur # 42-70 (511) Edif. Forum,Mejía  Cañas,Medellin,3140478,Colombia,Antioquia,info@drjorgemejia.com
+Miguel Antonio,Cra. 18 # 12-75Edif. Megacentro T.2 Piso 12 (1210),Medina Franco,Pereira,3116130-3116136,Colombia,Risaralda,medplastic@hotmail.com
+Alberto,Cra. 43A # 5B-18,Medina Morales,Cali,5516972,Colombia,Valle Del Cauca,alb_med@hotmail.com
+Juan Jose,Clinica Las Americas Cons. 419,Maya Mejia,Medellin,3459159-345916O,Colombia,Antioquia,jjmayam@hotmail.com
+Christian,Calle 20 # 12-12 Unid. Med.Odontol.(5A),Mattos Guzman,Santa Marta,4217730,Colombia,Magdalena,drchristianmattosg@hotmail.com
+Sandra Liliana,Calle 91 # 19C-62 (707),Martinez,Bogota D.C.,5305925-5305926,Colombia,Bogota D.C.,sandramartinezboh@yahoo.com.mx
+Martha,Cra. 83 # 6-50 Apto. 501F Alqueria Agr. B,Mateus Gutierrez,Cali,3155830,Colombia,Valle Del Cauca,mmateusmd@yahoo.com
+Adriana Ximena,Calle 97 # 23-37 (304) C. Med. Daly,Martinez Rojas,Bogota D.C.,2565826-2184559,Colombia,Bogota D.C.,adrianaxmartinezr@yahoo.com
+Luis Yesid,Cra. 8 # 14-09N Barrio La Toma,Martinez Laguna,Neiva,8753055,Colombia,Huila,luyemala@hotmail.com
+Yesid,Cra. 58 # 128-04,Martinez Diaz,Bogota D.C.,2266899,Colombia,Bogota D.C.,clinicadoctoryesidmartinez@hotmail.com
+Felipe,Cra. 25 A # 1A-Sur 45 T.Med. El Tesoro P.20 (2034),Martinez Restrepo,Medellin,3175565-3175733,Colombia,Antioquia,info@felipe-martinez.com
+Nelson,Cra. 16 Bis # 11-105 Pinares,Martinez Correa,Pereira,3357693-3357032,Colombia,Risaralda,nelsonmartinezcorrea@gmail.com
+Javier,C.M. Ardila Lulle T.A.P.2 Mod.4 (206),Martinez Camargo,Bucaramanga,6384160 Ext.1012,Colombia,Santander,mdjaviermartinez@gmail.com
+Nancy,Cra. 16 # 82-29 (402),Martinez Bonilla,Bogota D.C.,6102040-2139797,Colombia,Bogota D.C.,martinezbnancy@gmail.com
+Pablo Ignacio,Diag. 115A # 70C-75 Cons. Casa 12 (Clinica Shaio),Mariño Torres,Bogota D.C.,5222407,Colombia,Bogota D.C.,drpmari?o@yahoo.com
+Daniel Andres,Calle 91 # 19C-55 (609),Martinez Aniel,Bogota D.C.,6911300,Colombia,Bogota D.C.,damartinezaniel@yahoo.com
+Juan Carlos,Calle 127 # 19A-10 Consultorio 511,Marciales Parra,Bogota D.C.,7526445-8100908,Colombia,Bogota D.C.,consulta@juancarlosmarciales.com
+Olga Lucia,Calle 114 # 56-15 Apto. 201,Mardach Luna,Bogota D.C.,6434107,Colombia,Bogota D.C.,olgamardach@yahoo.com
+Rito Antonio,Calle 83 # 19-36 (702/703),Mariño Diaz,Bogota D.C.,2572833/2572836/6165506,Colombia,Bogota D.C.,info@americanestetica.com
+Ricardo Elias,Calle 82 # 47-12,Manzur Ayala,Barranquilla,3784013 Ext.817,Colombia,Atlantico,manzuricardo@hotmail.com
+Cesar Augusto,Cra. 13 Ed. Cervantes C/Grande Ap.303,Manzi Guerrero,Cartagena,6650913-6657287,Colombia,Bolivar,cesarmanzig@gmail.com
+Juan Carlos,Calle 49 # 27A-65 Consultorio 506,Mantilla Reyes,Bucaramanga,6573560 - 3212328179,Colombia,Santander,juancman58@gmail.com
+Jose Henrique,Calle 119A # 8-47,Mantilla,Bogota D.C.,2153440-2157411,Colombia,Bogota D.C.,ciruplas@colomsat.net.co
+Anibal,Calle 119A # 8-47,Mantilla,Bogota D.C.,2153440-2157411,Colombia,Bogota D.C.,aesculapio@msn.com
+Juan Carlos,Cra. 25A # 1-31 (320) Parque Empresarial,Maldonado,Medellin,4488695,Colombia,Antioquia,juanmaldonado@facialdoby.com
+Ricardo,Calle 83 # 19-36 (602),Madiedo Clavijo,Bogota D.C.,6108445,Colombia,Bogota D.C.,madiedocirugiaplastica@yahoo.com
+Ruben Horacio,Calle 90 # 14-16 Cons. 411,Luque Villamil,Bogota D.C.,6104188,Colombia,Bogota D.C.,horalu@gmail.com
+Ana Lucia,Avda. Calle 127 # 19-44 Cons. 501,Luque Higuera,Bogota D.C.,5204080-6497709,Colombia,Bogota D.C.,analucialuque@hotmail.com
+Hugo Hernan,Calle 5C # 43A-40 Latinplastica Ltda.,Luna Gomez,Cali,5519462,Colombia,Valle Del Cauca,hugoluna86@yahoo.com.mx
+Martha Magdalena,Calle 21A # 10-57 (202),Lozano Quintana,Tunja,7447546,Colombia,Boyaca,marthamagdalena5@hotmail.com
+Monica,Calle 146 # 6-24 Mz Iv T 1 Ap 102,Lozano De Hoyos,Bogota D.C.,6257361-6331643,Colombia,Bogota D.C.,monalo6@hotmail.com
+Mauro Alonso,Tranv. 13 # 119-61,Lozada Salgado,Bogota D.C.,2156158,Colombia,Bogota D.C.,maurolozada@hotmail.co
+Carlos Eduardo,Cra. 19C # 90-14,Lopez Valderrama,Bogota D.C.,6103488/6103738/6103492,Colombia,Bogota D.C.,info@doctorcarloslopez.com
+Jairo Antonio,Calle 109 # 18C-17 Cons. 601-Clinica Zayma,Zalamea Silva,Bogota D.C.,6370665-5208220,Colombia,Bogota D.C.,jairozalamea2011@gmail.com
+Elias Emilio,Calle 28 # 7-11 Cons.  204,Zakzuk Daguer,Monteria,7825808-7850030,Colombia,Cordoba,ezakzuk@hotmail.com
+David,Calle 3 Oeste No 34 -96 Corpus Y Rostrum,Yanguas Bodensiek,Cali,5545025 o 5545026,Colombia,Valle Del Cauca,davidyanguasbodensiek@hotmail.com
+Rubiela,Pie De La Popa. Calle 29B # 20A-104,Zabaleta De Burgos,Cartagena,6665398,Colombia,Bolivar,rubielazabaleta@hotmail.com
+Jorge Lizardo,Calle 16 # 0-15 Este -Caobos,Yanez Infante,Cucuta,715092-715082,Colombia,Norte De Santander,joliya50@hotmail.com
+Jorgen,Calle 91 # 19C-55 Cons. 508-509,Wilcken Torres,Bogota D.C.,5310235,Colombia,Bogota D.C.,drwilcken@yahoo.com
+Luis Alfonso,Cra. 50 # 82-168 (801),Wong Yong,Barranquilla,3565038-3785644,Colombia,Atlantico,lwongyong@yahoo.com
+Alvaro,Cra. 40 # 5B-100 (204),Villegas Victoria,Cali,5513237-5536460,Colombia,Valle Del Cauca,alvillegascplastico@gmail.com
+Luis Fernando,Calle 1A Sur # 43A-49 Of. 206,Villegas Uribe,Medellin,3110555,Colombia,Antioquia,inscipla@yahoo.com
+Juan Federico,Calle 1A Sur # 43A-49 Of. 206,Villegas Bateman,Medellin,3215454-3135870,Colombia,Antioquia,info@juanfedericovillegas.com
+Felipe De Jesus,Cra. 49C # 80-125 (706),Zapata Donado,Barranquilla,3585531-3548363,Colombia,Atlantico,felipezapataplastica@hotmail.com
+Juan Carlos,Calle 127 A # 7-53 (7001),Zambrano Burgl,Bogota D.C.,4619645,Colombia,Bogota D.C.,jc.zambrano.b@gmail.com
+Eduardo,Avda. 0 # 15-25 (204) Edf. Bellavista,Villamizar Gomez,Cucuta,7713031,Colombia,Norte De Santander,cirujanoeduardovillamizar@gmail.com
+Francisco Javier,Cra. 5 # 4-03 Cond. Andlucia,Villegas Alzate,Tulua,2252789-2244069,Colombia,Valle Del Cauca,fvillega@gmail.com
+Marcela,Cra 16 # 106 - 21 Consultorio 204,Villegas Ojeda,Bogota D.C.,6126822,Colombia,Bogota D.C.,marcelavillegasmd@gmail.com
+Jaime Alberto,Avda. 7 Norte # 25 An-18,Zapata Saldarriaga,Cali,6602567-6678754,Colombia,Valle Del Cauca,jaime4zapata@hotmail.com
+Luis Alberto,Calle 5C # 43-10 Cl,Zambrano Arcos,Cali,5532407-4465590,Colombia,Valle Del Cauca,zambrano10@hotmail.com
